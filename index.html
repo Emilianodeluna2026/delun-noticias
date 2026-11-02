@@ -50,8 +50,30 @@ function render(){
       items.map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(lang==="orig"?i.title:i[lang])}</a></li>`).join("")+"</ul>";
   }).join("")||"Sin resultados.";
 }
+let cache={};try{cache=JSON.parse(localStorage.getItem("tr")||"{}")}catch(e){}
+async function gt(text,t){
+  const k=t+"|"+text; if(cache[k])return cache[k];
+  const r=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl="+t+"&dt=t&q="+encodeURIComponent(text));
+  const j=await r.json(); const out=j[0].map(x=>x[0]).join("");
+  cache[k]=out; return out;
+}
+async function fill(){
+  if(lang==="orig")return; const t=lang;
+  const todo=data.sources.flatMap(s=>s.items).filter(i=>i.lang!==t&&i[t]===i.title);
+  let n=0;
+  async function worker(){
+    while(todo.length){
+      const i=todo.shift();
+      try{i[t]=await gt(i.title,t)}catch(e){}
+      if(++n%10===0&&lang===t)render();
+    }
+  }
+  await Promise.all([1,2,3,4,5,6].map(worker));
+  try{localStorage.setItem("tr",JSON.stringify(cache))}catch(e){}
+  if(lang===t)render();
+}
 document.querySelectorAll("button").forEach(b=>b.onclick=()=>{
-  lang=b.dataset.l;document.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render();});
+  lang=b.dataset.l;document.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render();fill();});
 document.getElementById("q").oninput=()=>data&&render();
 fetch("news.json").then(r=>r.json()).then(d=>{data=d;
   document.getElementById("upd").textContent="Actualizado: "+new Date(d.updated).toLocaleString();render();})
