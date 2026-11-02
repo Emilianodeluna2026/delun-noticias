@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:17:19.911823+00:00",
+ "updated": "2026-11-02T13:23:05.095502+00:00",
  "sources": [
   {
    "institution": "Astana Financial Services Authority",
@@ -59,7 +59,7 @@
     {
      "title": "SIGNING AN MOU WITH AAOIFI",
      "url": "https://www.uasa.ae/en/newsdetails.aspx?catid=443&typ=1",
-     "lang": "en",
+     "lang": "so",
      "en": "SIGNING AN MOU WITH AAOIFI",
      "es": "SIGNING AN MOU WITH AAOIFI"
     },
@@ -178,7 +178,7 @@
    "jurisdiction": "Belarus, Republic of",
    "source": "https://www.minfin.gov.by/special/public/en/news/",
    "items": [],
-   "error": "ReadTimeout HTTPSConnectionPool(host='www.minfin.gov.by', port=443): Read timed out. (read t"
+   "error": "ConnectTimeout HTTPSConnectionPool(host='www.minfin.gov.by', port=443): Max retries exceeded wi"
   },
   {
    "institution": "Non-Bank Financial Institutions Regulatory Authority",
@@ -417,7 +417,7 @@
     {
      "title": "New Q&As available 16/10/2026",
      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-27",
-     "lang": "en",
+     "lang": "fr",
      "en": "New Q&As available 16/10/2026",
      "es": "New Q&As available 16/10/2026"
     }
@@ -460,7 +460,7 @@
     {
      "title": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”",
      "url": "https://www.rmvm.gob.gt/?p=22406",
-     "lang": "en",
+     "lang": "de",
      "en": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”",
      "es": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”"
     }
@@ -471,44 +471,8 @@
    "institution": "International Financial Services Centres Authority",
    "jurisdiction": "India",
    "source": "https://www.ifsca.gov.in/home/NewSection",
-   "items": [
-    {
-     "title": "Conference on Consumer Awareness on Protection in the Digital Era - 2026",
-     "url": "https://ifsca.gov.in/ReportPublication/Index?MId=6i23Qejq1wo=",
-     "lang": "en",
-     "en": "Conference on Consumer Awareness on Protection in the Digital Era - 2026",
-     "es": "Conference on Consumer Awareness on Protection in the Digital Era - 2026"
-    },
-    {
-     "title": "Provision of Miscellaneous Civil Works at IFSCA Building GIFT City, Gandhinagar",
-     "url": "https://ifsca.gov.in/Tender/Index?MId=8AzGQ4oik7E=",
-     "lang": "en",
-     "en": "Provision of Miscellaneous Civil Works at IFSCA Building GIFT City, Gandhinagar",
-     "es": "Provision of Miscellaneous Civil Works at IFSCA Building GIFT City, Gandhinagar"
-    },
-    {
-     "title": "Public Comments and Suggestions on the draft notification to enable operating lease, including any hybrid of operating and financial lease, of GPU and connected data centre equipment in IFSC",
-     "url": "https://ifsca.gov.in/ReportPublication/Index?MId=yjQxwUzcL6A=",
-     "lang": "en",
-     "en": "Public Comments and Suggestions on the draft notification to enable operating lease, including any hybrid of operating and financial lease, of GPU and connected data centre equipment in IFSC",
-     "es": "Public Comments and Suggestions on the draft notification to enable operating lease, including any hybrid of operating and financial lease, of GPU and connected data centre equipment in IFSC"
-    },
-    {
-     "title": "Financial Soundness Criteria applicable to existing PSO(s) and the Applicant(s) desirous of commencing Payment System",
-     "url": "https://ifsca.gov.in/Legal/Index?MId=xEmF2px9zTc=",
-     "lang": "en",
-     "en": "Financial Soundness Criteria applicable to existing PSO(s) and the Applicant(s) desirous of commencing Payment System",
-     "es": "Financial Soundness Criteria applicable to existing PSO(s) and the Applicant(s) desirous of commencing Payment System"
-    },
-    {
-     "title": "Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs",
-     "url": "https://ifsca.gov.in/Legal/Index?MId=D0dptN76gCU=",
-     "lang": "en",
-     "en": "Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs",
-     "es": "Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ConnectTimeout HTTPSConnectionPool(host='www.ifsca.gov.in', port=443): Max retries exceeded wit"
   },
   {
    "institution": "International Bank for Reconstruction and Development",
@@ -669,7 +633,7 @@
     {
      "title": "korea deposit insurance corporation",
      "url": "https://www.kdic.or.kr/en/main.do",
-     "lang": "pt",
+     "lang": "en",
      "en": "korea deposit insurance corporation",
      "es": "korea deposit insurance corporation"
     },
@@ -783,7 +747,7 @@
     {
      "title": "Announcement No. 98",
      "url": "https://www.cma.gov.lb/announcement-no-98/",
-     "lang": "fr",
+     "lang": "en",
      "en": "Announcement No. 98",
      "es": "Announcement No. 98"
     },
@@ -991,7 +955,7 @@
     {
      "title": "INTERNATIONAL CO-OPERATION",
      "url": "https://www.qfcra.com/international-co-operation/",
-     "lang": "en",
+     "lang": "pt",
      "en": "INTERNATIONAL CO-OPERATION",
      "es": "INTERNATIONAL CO-OPERATION"
     },
@@ -1070,7 +1034,7 @@
     {
      "title": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents",
      "url": "https://fsaseychelles.sc/news/communique/communique-no-1-of-2026-work-from-home-arrangements-digital-submission-of-documents",
-     "lang": "en",
+     "lang": "fr",
      "en": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents",
      "es": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents"
     },
@@ -1193,7 +1157,7 @@
     {
      "title": "Electronic Prudential Reporting",
      "url": "https://www.adgm.com/operating-in-adgm/e-services/electronic-prudential-reporting",
-     "lang": "es",
+     "lang": "ro",
      "en": "Electronic Prudential Reporting",
      "es": "Electronic Prudential Reporting"
     },
@@ -1250,7 +1214,7 @@
     {
      "title": "Verifikoni Statusin e Dosjes sÃ« DÃ«mit",
      "url": "https://amf.gov.al/vdws.asp",
-     "lang": "et",
+     "lang": "sq",
      "en": "Verifikoni Statusin e Dosjes sÃ« DÃ«mit",
      "es": "Verifikoni Statusin e Dosjes sÃ« DÃ«mit"
     },
@@ -1529,11 +1493,39 @@
    "source": "https://www.fma.gv.at/en/category/news-en/press-release/",
    "items": [
     {
-     "title": "FMA - Financial Market Authority Austria - Start page",
-     "url": "https://www.fma.gv.at/en/",
+     "title": "Oliver Schütz takes up office as new FMA Executive Board Member",
+     "url": "https://www.fma.gv.at/en/oliver-schuetz-takes-up-office-as-new-fma-executive-board-member/",
      "lang": "en",
-     "en": "FMA - Financial Market Authority Austria - Start page",
-     "es": "FMA - Financial Market Authority Austria - Start page"
+     "en": "Oliver Schütz takes up office as new FMA Executive Board Member",
+     "es": "Oliver Schütz takes up office as new FMA Executive Board Member"
+    },
+    {
+     "title": "The FMA warns against offerings by Velmato Edge",
+     "url": "https://www.fma.gv.at/en/the-fma-warns-against-offerings-by-velmato-edge/",
+     "lang": "en",
+     "en": "The FMA warns against offerings by Velmato Edge",
+     "es": "The FMA warns against offerings by Velmato Edge"
+    },
+    {
+     "title": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen",
+     "url": "https://www.fma.gv.at/en/lapsing-of-licence-raiffeisenbank-region-deutschkreutz-horitschon-egen/",
+     "lang": "de",
+     "en": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen",
+     "es": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen"
+    },
+    {
+     "title": "The FMA warns against concluding transactions with Alliston-Westbury",
+     "url": "https://www.fma.gv.at/en/the-fma-warns-against-concluding-transactions-with-alliston-westbury/",
+     "lang": "en",
+     "en": "The FMA warns against concluding transactions with Alliston-Westbury",
+     "es": "The FMA warns against concluding transactions with Alliston-Westbury"
+    },
+    {
+     "title": "The FMA warns against concluding transactions with M3 DAO",
+     "url": "https://www.fma.gv.at/en/the-fma-warns-against-concluding-transactions-with-m3-dao/",
+     "lang": "en",
+     "en": "The FMA warns against concluding transactions with M3 DAO",
+     "es": "The FMA warns against concluding transactions with M3 DAO"
     }
    ],
    "error": ""
@@ -1696,7 +1688,7 @@
     {
      "title": "Administrative sanctions",
      "url": "https://www.fsma.be/en/administrative-sanctions",
-     "lang": "en",
+     "lang": "fr",
      "en": "Administrative sanctions",
      "es": "Administrative sanctions"
     },
@@ -1764,23 +1756,8 @@
    "institution": "Bermuda Monetary Authority",
    "jurisdiction": "Bermuda",
    "source": "https://www.bma.bm/news-and-press-releases",
-   "items": [
-    {
-     "title": "Bermuda Monetary Authority Privacy Policy",
-     "url": "https://www.bma.bm/website-privacy-policy",
-     "lang": "en",
-     "en": "Bermuda Monetary Authority Privacy Policy",
-     "es": "Bermuda Monetary Authority Privacy Policy"
-    },
-    {
-     "title": "BMA Business Plan 2026",
-     "url": "https://www.bma.bm/pdfview/11132",
-     "lang": "de",
-     "en": "BMA Business Plan 2026",
-     "es": "BMA Business Plan 2026"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ReadTimeout HTTPSConnectionPool(host='www.bma.bm', port=443): Read timed out. (read timeout="
   },
   {
    "institution": "Autoridad de Supervisión del Sistema Financiero",
@@ -1847,7 +1824,7 @@
     {
      "title": "Više informacija chevron_right",
      "url": "https://www.komvp.gov.ba/obavjestenja/690/poziv-za-prijavu-za-polaganje-strucnih-ispita-za-sticanje-zvanja-brokera-investicijskog-savjetnika-i-investicijskog-menadzera",
-     "lang": "en",
+     "lang": "sl",
      "en": "Više informacija chevron_right",
      "es": "Više informacija chevron_right"
     },
@@ -2133,7 +2110,7 @@
     {
      "title": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026",
      "url": "https://cosumaf.org/actualites/avis-dappel-doffres-n01-2026cosumaf",
-     "lang": "en",
+     "lang": "fr",
      "en": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026",
      "es": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026"
     }
@@ -2188,7 +2165,7 @@
    "jurisdiction": "China",
    "source": "https://www.csrc.gov.cn/csrc_en/c102030/common_list.shtml",
    "items": [],
-   "error": "sin titulares en el HTML"
+   "error": "ConnectTimeout HTTPSConnectionPool(host='www.csrc.gov.cn', port=443): Max retries exceeded with"
   },
   {
    "institution": "Financial Supervisory Commission",
@@ -2421,7 +2398,7 @@
     {
      "title": "Financial Markets Tribunal",
      "url": "https://www.dfsa.ae/about-dfsa/our-structure/financial-markets-tribunal",
-     "lang": "id",
+     "lang": "ca",
      "en": "Financial Markets Tribunal",
      "es": "Financial Markets Tribunal"
     },
@@ -2435,7 +2412,7 @@
     {
      "title": "Regulatory Framework",
      "url": "https://www.dfsa.ae/what-we-do/aml-ctf-sanctions-compliance/regulatory-framework",
-     "lang": "en",
+     "lang": "pl",
      "en": "Regulatory Framework",
      "es": "Regulatory Framework"
     }
@@ -2842,18 +2819,18 @@
      "es": "Sanctions Notice - Taliban (UN Resolution 1988)"
     },
     {
-     "title": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)",
-     "url": "https://www.gfsc.gg/news/sanctions-notice-isil-daesh-and-al-qaida-delisting",
-     "lang": "en",
-     "en": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)",
-     "es": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)"
-    },
-    {
      "title": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Amendment)",
      "url": "https://www.gfsc.gg/news/sanctions-notice-isil-daesh-and-al-qaida-amendment-0",
      "lang": "en",
      "en": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Amendment)",
      "es": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Amendment)"
+    },
+    {
+     "title": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)",
+     "url": "https://www.gfsc.gg/news/sanctions-notice-isil-daesh-and-al-qaida-delisting",
+     "lang": "en",
+     "en": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)",
+     "es": "Sanctions Notice - ISIL (Da'esh) and Al-Qaida (Delisting)"
     },
     {
      "title": "Sanctions Notice - Sudan (Addition)",
@@ -2980,14 +2957,14 @@
     {
      "title": "Financial Stability Committee",
      "url": "https://cb.is/financial-stability/financial-stability-committee/",
-     "lang": "en",
+     "lang": "it",
      "en": "Financial Stability Committee",
      "es": "Financial Stability Committee"
     },
     {
      "title": "Macroprudential policy",
      "url": "https://cb.is/financial-stability/macroprudential-policy/",
-     "lang": "it",
+     "lang": "ro",
      "en": "Macroprudential policy",
      "es": "Macroprudential policy"
     }
@@ -3252,7 +3229,7 @@
     {
      "title": "Hurricane Melissa Claims FAQ",
      "url": "https://www.fscjamaica.org/hurricane-melissa-claims-faq/",
-     "lang": "en",
+     "lang": "ca",
      "en": "Hurricane Melissa Claims FAQ",
      "es": "Hurricane Melissa Claims FAQ"
     },
@@ -3528,44 +3505,8 @@
    "institution": "Capital Markets Authority",
    "jurisdiction": "Kenya",
    "source": "https://www.cma.or.ke/press-releases/",
-   "items": [
-    {
-     "title": "CMA APPROVES PARTICIPATION BY KENYAN INVESTORS IN THE DANGOTE PETROLEUM REFINERY & PETROCHEMICALS INITIAL PUBLIC OFFERING (IPO) THROUGH A GLOBAL DEPOSITORY RECEIPT",
-     "url": "https://www.cma.or.ke/cma-approves-participation-by-kenyan-investors-in-the-dangote-petroleum-refinery-petrochemicals-initial-public-offering-ipo-through-a-global-depository-receipt/",
-     "lang": "en",
-     "en": "CMA APPROVES PARTICIPATION BY KENYAN INVESTORS IN THE DANGOTE PETROLEUM REFINERY & PETROCHEMICALS INITIAL PUBLIC OFFERING (IPO) THROUGH A GLOBAL DEPOSITORY RECEIPT",
-     "es": "CMA APPROVES PARTICIPATION BY KENYAN INVESTORS IN THE DANGOTE PETROLEUM REFINERY & PETROCHEMICALS INITIAL PUBLIC OFFERING (IPO) THROUGH A GLOBAL DEPOSITORY RECEIPT"
-    },
-    {
-     "title": "PUBLIC CAUTION AGAINST INVESTMENT SCAMS",
-     "url": "https://www.cma.or.ke/public-caution-against-investment-scams/",
-     "lang": "en",
-     "en": "PUBLIC CAUTION AGAINST INVESTMENT SCAMS",
-     "es": "PUBLIC CAUTION AGAINST INVESTMENT SCAMS"
-    },
-    {
-     "title": "Taking Stock of the Achievements in Regional Capital Markets in the East Africa Community.",
-     "url": "https://www.cma.or.ke/taking-stock-of-the-achievements-in-regional-capital-markets-in-the-east-africa-community/",
-     "lang": "en",
-     "en": "Taking Stock of the Achievements in Regional Capital Markets in the East Africa Community.",
-     "es": "Taking Stock of the Achievements in Regional Capital Markets in the East Africa Community."
-    },
-    {
-     "title": "CMA LICENSES AN INTERMEDIARY SERVICE PLATFORM PROVIDER",
-     "url": "https://www.cma.or.ke/cma-licenses-an-intermediary-service-platform-provider/",
-     "lang": "en",
-     "en": "CMA LICENSES AN INTERMEDIARY SERVICE PLATFORM PROVIDER",
-     "es": "CMA LICENSES AN INTERMEDIARY SERVICE PLATFORM PROVIDER"
-    },
-    {
-     "title": "CMA APPROVES A LICENCE UPGRADE AND GRANTS NEW INTERMEDIARY LICENCES TO STRENGTHEN MARKET CAPACITY",
-     "url": "https://www.cma.or.ke/cma-approves-a-licence-upgrade-and-grants-new-intermediary-licences-to-strengthen-market-capacity/",
-     "lang": "en",
-     "en": "CMA APPROVES A LICENCE UPGRADE AND GRANTS NEW INTERMEDIARY LICENCES TO STRENGTHEN MARKET CAPACITY",
-     "es": "CMA APPROVES A LICENCE UPGRADE AND GRANTS NEW INTERMEDIARY LICENCES TO STRENGTHEN MARKET CAPACITY"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "HTTPError 502 Server Error: Bad Gateway for url: https://www.cma.or.ke/press-releases/"
   },
   {
    "institution": "Financial Services Commission/Financial Supervisory Service",
@@ -3709,32 +3650,32 @@
      "es": "List of notifications received"
     },
     {
-     "title": "Answer to the public consultation – Schroders Investment Management (Europe) S.A.",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-schroders-investment-management-europe-s-a-2/",
+     "title": "Answer to the public consultation – Amundi Asset Management",
+     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-amundi-asset-management/",
      "lang": "en",
-     "en": "Answer to the public consultation – Schroders Investment Management (Europe) S.A.",
-     "es": "Answer to the public consultation – Schroders Investment Management (Europe) S.A."
+     "en": "Answer to the public consultation – Amundi Asset Management",
+     "es": "Answer to the public consultation – Amundi Asset Management"
     },
     {
-     "title": "Answer to the public consultation – State Street Global Advisors Ireland Limited",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-state-street-global-advisors-ireland-limited/",
+     "title": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg",
+     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-bnp-paribas-asset-management-luxembourg/",
      "lang": "en",
-     "en": "Answer to the public consultation – State Street Global Advisors Ireland Limited",
-     "es": "Answer to the public consultation – State Street Global Advisors Ireland Limited"
+     "en": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg",
+     "es": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg"
     },
     {
-     "title": "Answer to the public consultation – Aberdeen Investments",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-aberdeen-investments/",
+     "title": "Answer to the public consultation – Cadelux S.A.",
+     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-cadelux-s-a/",
      "lang": "en",
-     "en": "Answer to the public consultation – Aberdeen Investments",
-     "es": "Answer to the public consultation – Aberdeen Investments"
+     "en": "Answer to the public consultation – Cadelux S.A.",
+     "es": "Answer to the public consultation – Cadelux S.A."
     },
     {
-     "title": "Answer to the public consultation – Association of the Luxembourg Fund Industry (ALFI)",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-association-of-the-luxembourg-fund-industry-alfi/",
+     "title": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)",
+     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-european-fund-and-asset-management-association-efama/",
      "lang": "en",
-     "en": "Answer to the public consultation – Association of the Luxembourg Fund Industry (ALFI)",
-     "es": "Answer to the public consultation – Association of the Luxembourg Fund Industry (ALFI)"
+     "en": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)",
+     "es": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)"
     }
    ],
    "error": ""
@@ -4024,7 +3965,7 @@
    "jurisdiction": "Montenegro",
    "source": "https://www.scmn.me/en/",
    "items": [],
-   "error": "sin titulares en el HTML"
+   "error": "ConnectionError ('Connection aborted.', RemoteDisconnected('Remote end closed connection without"
   },
   {
    "institution": "Autorité Marocaine du Marché des Capitaux",
@@ -4148,7 +4089,7 @@
     {
      "title": "Организациска структура",
      "url": "https://www.sec.gov.mk/Organizaciska-struktura/Organizaciska-struktura",
-     "lang": "mk",
+     "lang": "bg",
      "en": "Организациска структура",
      "es": "Организациска структура"
     },
@@ -4198,7 +4139,7 @@
     {
      "title": "Risk Outlook – June 2026",
      "url": "https://www.finanstilsynet.no/en/news-archive/news/2026/risk-outlook--june-2026/",
-     "lang": "et",
+     "lang": "no",
      "en": "Risk Outlook – June 2026",
      "es": "Risk Outlook – June 2026"
     }
@@ -4389,7 +4330,7 @@
    "jurisdiction": "Papua New Guinea",
    "source": "https://www.scpng.gov.pg",
    "items": [],
-   "error": "sin titulares en el HTML"
+   "error": "ConnectionError ('Connection aborted.', RemoteDisconnected('Remote end closed connection without"
   },
   {
    "institution": "Superintendencia de Valores Banco Central del Paraguay",
@@ -4545,8 +4486,44 @@
    "institution": "Autorité des marchés financiers",
    "jurisdiction": "Quebec",
    "source": "https://lautorite.qc.ca/en/general-public/media-centre/news",
-   "items": [],
-   "error": "HTTPError 403 Client Error: Forbidden for url: https://lautorite.qc.ca/en/general-public/m"
+   "items": [
+    {
+     "title": "Financial Literacy Month&nbsp;– Understanding your finances in the era of artificial intelligence and finfluencers",
+     "url": "https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/financial-literacy-month-understanding-your-finances-in-the-era-of-artificial-intelligence-and-finfluencers?utm_medium=rss",
+     "lang": "en",
+     "en": "Financial Literacy Month&nbsp;– Understanding your finances in the era of artificial intelligence and finfluencers",
+     "es": "Financial Literacy Month&nbsp;– Understanding your finances in the era of artificial intelligence and finfluencers"
+    },
+    {
+     "title": "CSA updates non-GAAP and other financial measures disclosure rules ahead of IFRS&nbsp;18",
+     "url": "https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/csa-updates-non-gaap-and-other-financial-measures-disclosure-rules-ahead-of-ifrs-18?utm_medium=rss",
+     "lang": "en",
+     "en": "CSA updates non-GAAP and other financial measures disclosure rules ahead of IFRS&nbsp;18",
+     "es": "CSA updates non-GAAP and other financial measures disclosure rules ahead of IFRS&nbsp;18"
+    },
+    {
+     "title": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution",
+     "url": "https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/canadian-securities-regulators-publish-final-amendments-prohibiting-chargebacks-in-investment-fund-distribution?utm_medium=rss",
+     "lang": "en",
+     "en": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution",
+     "es": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution"
+    },
+    {
+     "title": "CSA encourages informed investing and fraud prevention during Investor Education Month",
+     "url": "https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/csa-encourages-informed-investing-and-fraud-prevention-during-investor-education-month?utm_medium=rss",
+     "lang": "en",
+     "en": "CSA encourages informed investing and fraud prevention during Investor Education Month",
+     "es": "CSA encourages informed investing and fraud prevention during Investor Education Month"
+    },
+    {
+     "title": "CSA seeks comment on proposed information technology system integrity rule",
+     "url": "https://lautorite.qc.ca/en/general-public/media-centre/news/fiche-dactualites/csa-seeks-comment-on-proposed-information-technology-system-integrity-rule?utm_medium=rss",
+     "lang": "en",
+     "en": "CSA seeks comment on proposed information technology system integrity rule",
+     "es": "CSA seeks comment on proposed information technology system integrity rule"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Financial Supervisory Authority",
@@ -4701,7 +4678,7 @@
     {
      "title": "Financial market supervision",
      "url": "https://nbs.sk/en/financial-market-supervision1/",
-     "lang": "it",
+     "lang": "en",
      "en": "Financial market supervision",
      "es": "Financial market supervision"
     },
@@ -4948,44 +4925,8 @@
    "institution": "Syrian Commission on Financial Markets and Securities",
    "jurisdiction": "Syria",
    "source": "http://www.scfms.sy",
-   "items": [
-    {
-     "title": "الجهات الخاضعة لإشراف الهيئة",
-     "url": "http://www.scfms.sy/ar/page/الجهات-الخاضعة-لإشراف-الهيئة",
-     "lang": "ar",
-     "en": "الجهات الخاضعة لإشراف الهيئة",
-     "es": "الجهات الخاضعة لإشراف الهيئة"
-    },
-    {
-     "title": "إعلانات الشركات المساهمة",
-     "url": "http://www.scfms.sy/ar/banner-section",
-     "lang": "ar",
-     "en": "إعلانات الشركات المساهمة",
-     "es": "إعلانات الشركات المساهمة"
-    },
-    {
-     "title": "القوانين و المراسيم التشريعية",
-     "url": "http://www.scfms.sy/ar/page/القوانين-و-المراسيم-التشريعية",
-     "lang": "ar",
-     "en": "القوانين و المراسيم التشريعية",
-     "es": "القوانين و المراسيم التشريعية"
-    },
-    {
-     "title": "قرارات مجلس المفوضين",
-     "url": "http://www.scfms.sy/ar/page/قرارات-مجلس-المفوضين",
-     "lang": "ar",
-     "en": "قرارات مجلس المفوضين",
-     "es": "قرارات مجلس المفوضين"
-    },
-    {
-     "title": "معلومات وافصاحات وتقارير",
-     "url": "http://www.scfms.sy/ar/declaration",
-     "lang": "ar",
-     "en": "معلومات وافصاحات وتقارير",
-     "es": "معلومات وافصاحات وتقارير"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ConnectTimeout HTTPConnectionPool(host='www.scfms.sy', port=80): Max retries exceeded with url:"
   },
   {
    "institution": "Capital Markets and Securities Authority",
@@ -5045,7 +4986,7 @@
     {
      "title": "Jaarverslag en AFM agenda",
      "url": "https://www.afm.nl/nl-nl/over-de-afm/verslaglegging",
-     "lang": "nl",
+     "lang": "af",
      "en": "Jaarverslag en AFM agenda",
      "es": "Jaarverslag en AFM agenda"
     },
@@ -5088,7 +5029,7 @@
     {
      "title": "PUBLIC NOTICE – BTC 800 Lurotix",
      "url": "https://www.ttsec.org.tt/public-notice-btc-800-lurotix/",
-     "lang": "en",
+     "lang": "fr",
      "en": "PUBLIC NOTICE – BTC 800 Lurotix",
      "es": "PUBLIC NOTICE – BTC 800 Lurotix"
     },
@@ -5338,7 +5279,7 @@
    "items": [
     {
      "title": "Email: [email protected]",
-     "url": "https://www.fca.org.uk/cdn-cgi/l/email-protection#d3f3a3a1b6a0a0fdbcb5b5bab0b693b5b0b2fdbca1b4fda6b8",
+     "url": "https://www.fca.org.uk/cdn-cgi/l/email-protection#c5e5b5b7a0b6b6ebaaa3a3aca6a085a3a6a4ebaab7a2ebb0ae",
      "lang": "en",
      "en": "Email: [email protected]",
      "es": "Email: [email protected]"
