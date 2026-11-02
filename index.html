@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias de reguladores</title>
+<style>
+  :root{--bg:#f7f6f3;--card:#fff;--ink:#1c1c1a;--mute:#6b6a64;--line:#e4e2db;--accent:#1f4e79;--chip:#eef2f6}
+  @media (prefers-color-scheme:dark){:root{--bg:#121311;--card:#1b1c1a;--ink:#ecebe6;--mute:#9b9a92;--line:#2c2d2a;--accent:#7fb2e0;--chip:#242623}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,"Times New Roman",serif}
+  .wrap{max-width:860px;margin:0 auto;padding:28px 16px 64px}
+  h1{font-size:1.6rem;margin:0 0 2px}
+  .sub{color:var(--mute);font:14px system-ui,sans-serif;margin-bottom:20px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px;font:14px system-ui,sans-serif}
+  .bar input,.bar select{padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+  .bar input{flex:1 1 220px}
+  .country{font:600 12px system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);margin:26px 0 8px;border-bottom:1px solid var(--line);padding-bottom:4px}
+  article{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:10px}
+  .meta{font:12px system-ui,sans-serif;color:var(--mute);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .chip{background:var(--chip);border-radius:999px;padding:1px 8px}
+  article h2{font-size:1.05rem;line-height:1.35;margin:6px 0 2px}
+  article h2 a{color:var(--ink);text-decoration:none}
+  article h2 a:hover{color:var(--accent);text-decoration:underline}
+  .orig{font:italic 13px Georgia,serif;color:var(--mute);margin:0 0 6px}
+  article p{margin:6px 0 0;font-size:.96rem}
+  .empty{color:var(--mute);font:15px system-ui,sans-serif;padding:30px 0;text-align:center}
+  footer{margin-top:30px;font:12px system-ui,sans-serif;color:var(--mute)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Noticias de reguladores</h1>
+  <div class="sub" id="sub">Cargando…</div>
+  <div class="bar">
+    <select id="day" aria-label="Día"></select>
+    <input id="q" type="search" placeholder="Buscar en titulares y resúmenes…">
+    <select id="juris" aria-label="País o jurisdicción"><option value="">Todos los países</option></select>
+    <select id="tipo" aria-label="Tipo de miembro">
+      <option value="">Todos los tipos</option><option>Ordinary</option><option>Associate</option>
+    </select>
+  </div>
+  <div id="list"></div>
+  <footer>Resúmenes generados automáticamente con IA a partir del texto de cada fuente; pueden contener errores. Consulta siempre el enlace original.</footer>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
+let items = [], index = null;
+
+async function getJSON(p){ const r = await fetch(p, {cache:"no-cache"}); if(!r.ok) throw new Error(p); return r.json(); }
+
+async function loadDay(d){
+  try { items = await getJSON(`data/days/${d}.json`); } catch(e){ items = []; }
+  const js = [...new Set(items.map(i => i.jurisdiccion))].sort();
+  const cur = $("juris").value;
+  $("juris").innerHTML = '<option value="">Todos los países</option>' + js.map(j => `<option>${esc(j)}</option>`).join("");
+  if (js.includes(cur)) $("juris").value = cur;
+  render();
+}
+
+function render(){
+  const q = $("q").value.trim().toLowerCase(), j = $("juris").value, t = $("tipo").value;
+  const rows = items.filter(i =>
+    (!j || i.jurisdiccion === j) && (!t || i.tipo === t) &&
+    (!q || [i.titulo, i.titulo_es, i.resumen, i.institucion, i.jurisdiccion].join(" ").toLowerCase().includes(q)));
+  $("sub").textContent = `${rows.length} noticias · actualizado ${index.actualizado.replace("T"," ").slice(0,16)} UTC`;
+  if (!rows.length){ $("list").innerHTML = '<div class="empty">No hay noticias con estos filtros.</div>'; return; }
+  let html = "", last = null;
+  for (const i of rows){
+    if (i.jurisdiccion !== last){ html += `<div class="country">${esc(i.jurisdiccion)}</div>`; last = i.jurisdiccion; }
+    const titulo = i.titulo_es || i.titulo;
+    const orig = i.titulo_es && i.titulo_es.trim().toLowerCase() !== i.titulo.trim().toLowerCase()
+      ? `<div class="orig">${esc(i.titulo)}</div>` : "";
+    html += `<article>
+      <div class="meta"><span class="chip">${esc(i.institucion)}</span>${i.fecha ? `<span>${esc(i.fecha)}</span>` : ""}</div>
+      <h2><a href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer">${esc(titulo)}</a></h2>${orig}
+      <p>${esc(i.resumen || i.nota || "Resumen no disponible.")}</p></article>`;
+  }
+  $("list").innerHTML = html;
+}
+
+(async () => {
+  try { index = await getJSON("data/index.json"); }
+  catch(e){ $("sub").textContent = "Aún no hay datos. Ejecuta el workflow una vez."; return; }
+  $("day").innerHTML = index.dias.map(d => `<option>${d}</option>`).join("");
+  ["q","juris","tipo"].forEach(id => $(id).addEventListener("input", render));
+  $("day").addEventListener("change", e => loadDay(e.target.value));
+  if (index.dias.length) loadDay(index.dias[0]); else { items = []; render(); }
+})();
+</script>
+</body>
+</html>
