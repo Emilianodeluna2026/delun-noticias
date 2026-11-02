@@ -98,22 +98,24 @@ def browser_fallback(failed):
 
 ERRORS = []
 CACHE = {}
+STATE = {"fails": 0, "off": False}
 
 def tr(text, lang, target):
-    if lang == target: return text
+    """Si Google bloquea (5 fallos seguidos) se desactiva y la web traduce en el navegador."""
+    if lang == target or STATE["off"]: return text
     key = (text, target)
     if key in CACHE: return CACHE[key]
-    for attempt in range(4):
-        try:
-            out = GoogleTranslator(source="auto", target=target).translate(text)
-            if out:
-                CACHE[key] = out
-                time.sleep(0.2)
-                return out
-        except Exception as e:
-            if len(ERRORS) < 3: ERRORS.append(type(e).__name__ + " " + str(e)[:150])
-            time.sleep(2 * (attempt + 1))
-    CACHE[key] = text
+    try:
+        out = GoogleTranslator(source="auto", target=target).translate(text)
+        if out:
+            STATE["fails"] = 0
+            CACHE[key] = out
+            time.sleep(0.2)
+            return out
+    except Exception as e:
+        if len(ERRORS) < 3: ERRORS.append(type(e).__name__ + " " + str(e)[:150])
+    STATE["fails"] += 1
+    if STATE["fails"] >= 5: STATE["off"] = True
     return text
 
 def translate(item):
