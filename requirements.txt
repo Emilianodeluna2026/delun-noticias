@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 deep-translator
 langdetect
+feedparser
+playwright
