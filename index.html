@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias de reguladores financieros</title>
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--mut:#666;--line:#e5e5e5;--acc:#0b5cab}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#999;--line:#2a2a2a;--acc:#6db3f2}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:16px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;position:sticky;top:0;background:var(--bg);padding:12px 0;border-bottom:1px solid var(--line)}
+h1{font-size:1.25rem;margin:0}
+.ctl{display:flex;gap:8px}
+button,input{font:inherit;padding:6px 12px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+button.on{background:var(--acc);color:#fff;border-color:var(--acc);cursor:default}
+button{cursor:pointer}
+h2{font-size:1rem;margin:24px 0 4px}h2 small{color:var(--mut);font-weight:400}
+ul{margin:0;padding-left:18px}li{margin:4px 0}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+#upd{color:var(--mut);font-size:.85rem}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <div><h1>Noticias de reguladores financieros</h1><div id="upd"></div></div>
+  <div class="ctl">
+    <input id="q" placeholder="Buscar…" type="search">
+    <button data-l="orig" class="on">Original</button>
+    <button data-l="en">English</button>
+    <button data-l="es">Español</button>
+  </div>
+</header>
+<div id="list">Cargando…</div>
+</main>
+<script>
+let data=null,lang="orig";
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function render(){
+  const q=document.getElementById("q").value.toLowerCase();
+  document.getElementById("list").innerHTML=data.sources.map(s=>{
+    const items=s.items.filter(i=>!q||(i.title+i.en+i.es+s.institution+s.jurisdiction).toLowerCase().includes(q));
+    if(!s.items.length){
+      if(q&&!(s.institution+(s.jurisdiction||"")).toLowerCase().includes(q))return"";
+      return `<h2>${esc(s.institution)} <small>· ${esc(s.jurisdiction||"")}</small></h2><ul><li><a href="${esc(s.source)}" target="_blank" rel="noopener">Ver noticias en su web →</a></li></ul>`;
+    }
+    if(!items.length)return"";
+    return `<h2>${esc(s.institution)} <small>· ${esc(s.jurisdiction||"")}</small></h2><ul>`+
+      items.map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(lang==="orig"?i.title:i[lang])}</a></li>`).join("")+"</ul>";
+  }).join("")||"Sin resultados.";
+}
+document.querySelectorAll("button").forEach(b=>b.onclick=()=>{
+  lang=b.dataset.l;document.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x===b));render();});
+document.getElementById("q").oninput=()=>data&&render();
+fetch("news.json").then(r=>r.json()).then(d=>{data=d;
+  document.getElementById("upd").textContent="Actualizado: "+new Date(d.updated).toLocaleString();render();})
+ .catch(()=>document.getElementById("list").textContent="Aún no hay noticias. Ejecuta el scraper.");
+</script>
+</body>
+</html>
