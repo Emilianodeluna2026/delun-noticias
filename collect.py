@@ -34,7 +34,7 @@ import trafilatura
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent  # archivo en la raiz del repo
 
 # ---------------------------------------------------------------- ajustes
 MAX_AGE_DAYS = int(os.getenv("MAX_AGE_DAYS", "3"))          # ignora noticias mas antiguas
