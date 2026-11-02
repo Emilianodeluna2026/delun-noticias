@@ -1,6 +1,6 @@
 """Lee las páginas de noticias de sources.json y guarda los titulares en news.json.
 Orden de intentos por fuente: 1) feed RSS/Atom  2) enlaces del HTML  3) navegador real (Playwright)."""
-import json, re, datetime, sys, concurrent.futures as cf
+import json, re, time, datetime, sys, concurrent.futures as cf
 from urllib.parse import urljoin, urlparse
 import requests, feedparser, urllib3
 from bs4 import BeautifulSoup
@@ -96,10 +96,25 @@ def browser_fallback(failed):
         b.close()
     return got
 
+ERRORS = []
+CACHE = {}
+
 def tr(text, lang, target):
     if lang == target: return text
-    try: return GoogleTranslator(source="auto", target=target).translate(text)
-    except Exception: return text
+    key = (text, target)
+    if key in CACHE: return CACHE[key]
+    for attempt in range(4):
+        try:
+            out = GoogleTranslator(source="auto", target=target).translate(text)
+            if out:
+                CACHE[key] = out
+                time.sleep(0.2)
+                return out
+        except Exception as e:
+            if len(ERRORS) < 3: ERRORS.append(type(e).__name__ + " " + str(e)[:150])
+            time.sleep(2 * (attempt + 1))
+    CACHE[key] = text
+    return text
 
 def translate(item):
     try: lang = detect(item["title"])
@@ -120,10 +135,13 @@ if __name__ == "__main__":
                 if src["institution"] + u in got: url, items = got[src["institution"] + u]; err = ""; break
         final.append({"institution": src["institution"], "jurisdiction": src["jurisdiction"],
                       "source": url, "items": items, "error": err})
-    with cf.ThreadPoolExecutor(8) as ex:
-        list(ex.map(translate, [i for f in final for i in f["items"]]))
+    for f in final:
+        for i in f["items"]: translate(i)
     json.dump({"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(), "sources": final},
               open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    todo = [i for f in final for i in f["items"] if i["lang"] != "es"]
+    bad = sum(1 for i in todo if i["es"] == i["title"])
+    print(f"Traducciones al español sin hacer: {bad}/{len(todo)}", ERRORS)
     ok = sum(1 for f in final if f["items"])
     print(f"{ok}/{len(sources)} fuentes con titulares")
     for f in final:
