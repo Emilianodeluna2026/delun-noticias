@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-02T13:23:05.095502+00:00",
+ "updated": "2026-11-07T06:53:42.708698+00:00",
  "sources": [
   {
    "institution": "Astana Financial Services Authority",
    "jurisdiction": "AIFC, Astana",
    "source": "https://afsa.aifc.kz/en/news",
    "items": [
+    {
+     "title": "AFSA Announces a Transitional Period for Fund Managers of Non-Exempt Funds",
+     "url": "https://afsa.aifc.kz/afsa-announces-a-transitional-period-for-fund-managers-of-non-exempt-funds/",
+     "lang": "en",
+     "en": "AFSA Announces a Transitional Period for Fund Managers of Non-Exempt Funds",
+     "es": "AFSA Announces a Transitional Period for Fund Managers of Non-Exempt Funds"
+    },
     {
      "title": "AIFC Court Issues Injunctions Against Operators of Several Unlicensed Crypto Platforms",
      "url": "https://afsa.aifc.kz/aifc-court-issues-injunctions-against-operators-of-several-unlicensed-crypto-platforms/",
@@ -33,13 +40,6 @@
      "lang": "en",
      "en": "AFSA Approves Designation of Clearing Participation Certificates as a Qualified Investment",
      "es": "AFSA Approves Designation of Clearing Participation Certificates as a Qualified Investment"
-    },
-    {
-     "title": "AFSA Enables Testing of Event-Based Contracts in the AIFC FinTech Lab",
-     "url": "https://afsa.aifc.kz/afsa-enables-testing-of-event-based-contracts-in-the-aifc-fintech-lab/",
-     "lang": "en",
-     "en": "AFSA Enables Testing of Event-Based Contracts in the AIFC FinTech Lab",
-     "es": "AFSA Enables Testing of Event-Based Contracts in the AIFC FinTech Lab"
     }
    ],
    "error": ""
@@ -90,42 +90,42 @@
   {
    "institution": "Asian Development Bank",
    "jurisdiction": "Asia",
-   "source": "https://www.adb.org/news/releases",
+   "source": "https://www.adb.org/news",
    "items": [
     {
-     "title": "ADB Approves its First Strategic Business Outlook",
-     "url": "https://www.adb.org/news/adb-approves-its-first-strategic-business-outlook",
+     "title": "Regional Integration Needs More Than Roads to Spread the Benefits",
+     "url": "https://www.adb.org/node/1189121",
      "lang": "en",
-     "en": "ADB Approves its First Strategic Business Outlook",
-     "es": "ADB Approves its First Strategic Business Outlook"
+     "en": "Regional Integration Needs More Than Roads to Spread the Benefits",
+     "es": "Regional Integration Needs More Than Roads to Spread the Benefits"
     },
     {
-     "title": "ADB Accelerates Nature Finance at COP17 with New Bond, Incubator, and Tracking Report",
-     "url": "https://www.adb.org/news/adb-accelerates-nature-finance-cop17-new-bond-incubator-and-tracking-report",
+     "title": "Why Government Accounting Rules Matter to Everyone",
+     "url": "https://www.adb.org/node/1188796",
      "lang": "en",
-     "en": "ADB Accelerates Nature Finance at COP17 with New Bond, Incubator, and Tracking Report",
-     "es": "ADB Accelerates Nature Finance at COP17 with New Bond, Incubator, and Tracking Report"
+     "en": "Why Government Accounting Rules Matter to Everyone",
+     "es": "Why Government Accounting Rules Matter to Everyone"
     },
     {
-     "title": "ADB Approves $17.4 Million to Protect Bhutan Families from Middle East Impacts",
-     "url": "https://www.adb.org/news/adb-approves-17-4-million-protect-bhutan-families-middle-east-impacts",
+     "title": "Building Resilient and Affordable Housing in the Hindu Kush Himalayas",
+     "url": "https://www.adb.org/node/1188181",
      "lang": "en",
-     "en": "ADB Approves $17.4 Million to Protect Bhutan Families from Middle East Impacts",
-     "es": "ADB Approves $17.4 Million to Protect Bhutan Families from Middle East Impacts"
+     "en": "Building Resilient and Affordable Housing in the Hindu Kush Himalayas",
+     "es": "Building Resilient and Affordable Housing in the Hindu Kush Himalayas"
     },
     {
-     "title": "Coasts Drive Region’s Growth but Face Mounting Threats—ADB Report",
-     "url": "https://www.adb.org/news/coasts-drive-region-growth-face-mounting-threats-adb-report",
+     "title": "Making Artificial Intelligence Work for Better Governance",
+     "url": "https://www.adb.org/node/1187946",
      "lang": "en",
-     "en": "Coasts Drive Region’s Growth but Face Mounting Threats—ADB Report",
-     "es": "Coasts Drive Region’s Growth but Face Mounting Threats—ADB Report"
+     "en": "Making Artificial Intelligence Work for Better Governance",
+     "es": "Making Artificial Intelligence Work for Better Governance"
     },
     {
-     "title": "ADB Launches New Approach to Build Resilience in Small Pacific Economies",
-     "url": "https://www.adb.org/news/adb-launches-new-approach-build-resilience-small-pacific-economies",
+     "title": "How ADB and Its Partners Work to Provide High Quality Development Solutions",
+     "url": "https://www.adb.org/solving-complex-challenges-together",
      "lang": "en",
-     "en": "ADB Launches New Approach to Build Resilience in Small Pacific Economies",
-     "es": "ADB Launches New Approach to Build Resilience in Small Pacific Economies"
+     "en": "How ADB and Its Partners Work to Provide High Quality Development Solutions",
+     "es": "How ADB and Its Partners Work to Provide High Quality Development Solutions"
     }
    ],
    "error": ""
@@ -178,13 +178,27 @@
    "jurisdiction": "Belarus, Republic of",
    "source": "https://www.minfin.gov.by/special/public/en/news/",
    "items": [],
-   "error": "ConnectTimeout HTTPSConnectionPool(host='www.minfin.gov.by', port=443): Max retries exceeded wi"
+   "error": "ReadTimeout HTTPSConnectionPool(host='www.minfin.gov.by', port=443): Read timed out. (read t"
   },
   {
    "institution": "Non-Bank Financial Institutions Regulatory Authority",
    "jurisdiction": "Botswana",
    "source": "https://www.nbfira.org.bw/media-center",
    "items": [
+    {
+     "title": "Notice of Tender Cancellation: Tender No: NBFIRA 005/2026-27",
+     "url": "https://www.nbfira.org.bw/news/notice-of-tender-cancellation-tender-no-nbfira-005-2026-27/",
+     "lang": "en",
+     "en": "Notice of Tender Cancellation: Tender No: NBFIRA 005/2026-27",
+     "es": "Notice of Tender Cancellation: Tender No: NBFIRA 005/2026-27"
+    },
+    {
+     "title": "Notice of Tender Cancellation: Tender No: NBFIRA 011/25-26",
+     "url": "https://www.nbfira.org.bw/news/notice-of-tender-cancellation-tender-no-nbfira-011-25-26/",
+     "lang": "en",
+     "en": "Notice of Tender Cancellation: Tender No: NBFIRA 011/25-26",
+     "es": "Notice of Tender Cancellation: Tender No: NBFIRA 011/25-26"
+    },
     {
      "title": "Tender for Social Media Management Consultancy Services for a Period of Four (4) Years",
      "url": "https://www.nbfira.org.bw/news/tender-for-social-media-management-consultancy-services-for-a-period-of-four-4-years/",
@@ -205,20 +219,6 @@
      "lang": "en",
      "en": "NBFIRA Acting CEO Contributes to National Regulatory Dialogue At BIBF Conference 2026",
      "es": "NBFIRA Acting CEO Contributes to National Regulatory Dialogue At BIBF Conference 2026"
-    },
-    {
-     "title": "Tender for The Supply, Installation and Configuration of Hardware Infrastructure for Hosting The Oracle Environment",
-     "url": "https://www.nbfira.org.bw/news/tender-for-the-supply-installation-and-configuration-of-hardware-infrastructure-for-hosting-the-oracle-environment/",
-     "lang": "en",
-     "en": "Tender for The Supply, Installation and Configuration of Hardware Infrastructure for Hosting The Oracle Environment",
-     "es": "Tender for The Supply, Installation and Configuration of Hardware Infrastructure for Hosting The Oracle Environment"
-    },
-    {
-     "title": "Minet Botswana (Pty) Ltd",
-     "url": "https://www.nbfira.org.bw/news/minet-botswana-pty-ltd/",
-     "lang": "en",
-     "en": "Minet Botswana (Pty) Ltd",
-     "es": "Minet Botswana (Pty) Ltd"
     }
    ],
    "error": ""
@@ -417,7 +417,7 @@
     {
      "title": "New Q&As available 16/10/2026",
      "url": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-27",
-     "lang": "fr",
+     "lang": "en",
      "en": "New Q&As available 16/10/2026",
      "es": "New Q&As available 16/10/2026"
     }
@@ -429,6 +429,13 @@
    "jurisdiction": "Guatemala",
    "source": "https://www.rmvm.gob.gt/?cat=46",
    "items": [
+    {
+     "title": "INSCRIPCIÓN DE AGENTE DE VALORES “ALPHA CYGNI CAPITAL, SOCIEDAD ANÓNIMA”",
+     "url": "https://www.rmvm.gob.gt/?p=22512",
+     "lang": "en",
+     "en": "INSCRIPCIÓN DE AGENTE DE VALORES “ALPHA CYGNI CAPITAL, SOCIEDAD ANÓNIMA”",
+     "es": "INSCRIPCIÓN DE AGENTE DE VALORES “ALPHA CYGNI CAPITAL, SOCIEDAD ANÓNIMA”"
+    },
     {
      "title": "INSCRIPCIÓN DE OFERTA PÚBLICA BURSÁTIL “BONOS CORPORATIVOS UNIVERSIDAD FRANCISCO MARROQUÍN”",
      "url": "https://www.rmvm.gob.gt/?p=22486",
@@ -453,16 +460,9 @@
     {
      "title": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE AR$3”",
      "url": "https://www.rmvm.gob.gt/?p=22412",
-     "lang": "de",
+     "lang": "en",
      "en": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE AR$3”",
      "es": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE AR$3”"
-    },
-    {
-     "title": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”",
-     "url": "https://www.rmvm.gob.gt/?p=22406",
-     "lang": "de",
-     "en": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”",
-     "es": "INSCRIPCIÓN DE LA OFERTA PÚBLICA BURSÁTIL DENOMINADA “PAGARÉS LAFISE ARQ3”"
     }
    ],
    "error": ""
@@ -471,8 +471,44 @@
    "institution": "International Financial Services Centres Authority",
    "jurisdiction": "India",
    "source": "https://www.ifsca.gov.in/home/NewSection",
-   "items": [],
-   "error": "ConnectTimeout HTTPSConnectionPool(host='www.ifsca.gov.in', port=443): Max retries exceeded wit"
+   "items": [
+    {
+     "title": "IFSCA notifies leasing of GPUs and connected data centre equipment as a financial product in GIFT IFSC",
+     "url": "https://ifsca.gov.in/PressRelease/Index?MId=jpuVF0ZsaYM=",
+     "lang": "en",
+     "en": "IFSCA notifies leasing of GPUs and connected data centre equipment as a financial product in GIFT IFSC",
+     "es": "IFSCA notifies leasing of GPUs and connected data centre equipment as a financial product in GIFT IFSC"
+    },
+    {
+     "title": "FAQs on IFSCA(Banking) Regulations, Banking Handbook and Internet Banking circulars",
+     "url": "https://ifsca.gov.in/Legal/Index?MId=IX858BVgwwE=",
+     "lang": "en",
+     "en": "FAQs on IFSCA(Banking) Regulations, Banking Handbook and Internet Banking circulars",
+     "es": "FAQs on IFSCA(Banking) Regulations, Banking Handbook and Internet Banking circulars"
+    },
+    {
+     "title": "The Companies (Listing of equity instruments in permissible jurisdictions) Amendment Rules, 2026",
+     "url": "https://ifsca.gov.in/Legal/Index?MId=ftK0cuU0Nhg=",
+     "lang": "en",
+     "en": "The Companies (Listing of equity instruments in permissible jurisdictions) Amendment Rules, 2026",
+     "es": "The Companies (Listing of equity instruments in permissible jurisdictions) Amendment Rules, 2026"
+    },
+    {
+     "title": "Reporting Norms for the TechFin and Ancillary Service Providers, Global In-House Centres and Book-keeping, Accounting, Taxation and Financial Crime Compliance Service Providers",
+     "url": "https://ifsca.gov.in/Legal/Index?MId=B1huExJJ0Ck=",
+     "lang": "en",
+     "en": "Reporting Norms for the TechFin and Ancillary Service Providers, Global In-House Centres and Book-keeping, Accounting, Taxation and Financial Crime Compliance Service Providers",
+     "es": "Reporting Norms for the TechFin and Ancillary Service Providers, Global In-House Centres and Book-keeping, Accounting, Taxation and Financial Crime Compliance Service Providers"
+    },
+    {
+     "title": "Notification enabling Operating lease including any hybrid of operating and financial lease of \"GPU and connected data centre equipment\" as financial product",
+     "url": "https://ifsca.gov.in/Legal/Index?MId=I27dQrNcok4=",
+     "lang": "en",
+     "en": "Notification enabling Operating lease including any hybrid of operating and financial lease of \"GPU and connected data centre equipment\" as financial product",
+     "es": "Notification enabling Operating lease including any hybrid of operating and financial lease of \"GPU and connected data centre equipment\" as financial product"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "International Bank for Reconstruction and Development",
@@ -518,7 +554,7 @@
     {
      "title": "Press Briefing | September 2026",
      "url": "https://www.imf.org/en/videos/view/6404889874112?page=1&sort=mostrecent",
-     "lang": "de",
+     "lang": "en",
      "en": "Press Briefing | September 2026",
      "es": "Press Briefing | September 2026"
     },
@@ -545,39 +581,18 @@
    "source": "https://www.isc.gov.iq/en/news",
    "items": [
     {
-     "title": "Uncertified Minutes of the General Assembly Meeting",
-     "url": "https://www.isc.gov.iq/en/news/3568",
-     "lang": "en",
-     "en": "Uncertified Minutes of the General Assembly Meeting",
-     "es": "Uncertified Minutes of the General Assembly Meeting"
-    },
-    {
-     "title": "Certified Minutes of the General Assembly Meeting",
-     "url": "https://www.isc.gov.iq/en/news/3567",
-     "lang": "en",
-     "en": "Certified Minutes of the General Assembly Meeting",
-     "es": "Certified Minutes of the General Assembly Meeting"
-    },
-    {
-     "title": "Invitation to Attend the General Assembly Meeting",
-     "url": "https://www.isc.gov.iq/en/news/3566",
-     "lang": "en",
-     "en": "Invitation to Attend the General Assembly Meeting",
-     "es": "Invitation to Attend the General Assembly Meeting"
-    },
-    {
      "title": "Financial Disclosures",
-     "url": "https://www.isc.gov.iq/en/news/3565",
+     "url": "https://www.isc.gov.iq/en/news/3584",
      "lang": "es",
      "en": "Financial Disclosures",
      "es": "Financial Disclosures"
     },
     {
-     "title": "Small Fees Can Affect Your Profits",
-     "url": "https://www.isc.gov.iq/en/news/3561",
+     "title": "Completion of procedures",
+     "url": "https://www.isc.gov.iq/en/news/3576",
      "lang": "en",
-     "en": "Small Fees Can Affect Your Profits",
-     "es": "Small Fees Can Affect Your Profits"
+     "en": "Completion of procedures",
+     "es": "Completion of procedures"
     }
    ],
    "error": ""
@@ -747,7 +762,7 @@
     {
      "title": "Announcement No. 98",
      "url": "https://www.cma.gov.lb/announcement-no-98/",
-     "lang": "en",
+     "lang": "fr",
      "en": "Announcement No. 98",
      "es": "Announcement No. 98"
     },
@@ -766,6 +781,20 @@
    "jurisdiction": "Lesotho, Kingdom of",
    "source": "https://centralbank.org.ls/index.php/news/press-releases",
    "items": [
+    {
+     "title": "Freezer Room Upgrade-Lehakoe Recreational and Cultural Centre (LRCC)-RFP",
+     "url": "https://centralbank.org.ls/freezer-room-upgrade-lehakoe-recreational-and-cultural-centre-lrcc-rfp/",
+     "lang": "en",
+     "en": "Freezer Room Upgrade-Lehakoe Recreational and Cultural Centre (LRCC)-RFP",
+     "es": "Freezer Room Upgrade-Lehakoe Recreational and Cultural Centre (LRCC)-RFP"
+    },
+    {
+     "title": "Freezer Room Updgrage-Lehakoe Recreational and Cultural Centre(LRCC)-Tender Notice",
+     "url": "https://centralbank.org.ls/freezer-room-updgrage-lehakoe-recreational-and-cultural-centrelrcc-tender-notice/",
+     "lang": "en",
+     "en": "Freezer Room Updgrage-Lehakoe Recreational and Cultural Centre(LRCC)-Tender Notice",
+     "es": "Freezer Room Updgrage-Lehakoe Recreational and Cultural Centre(LRCC)-Tender Notice"
+    },
     {
      "title": "Tender Clarifications Responses",
      "url": "https://centralbank.org.ls/tender-clarifications-responses/",
@@ -786,20 +815,6 @@
      "lang": "en",
      "en": "RFP-Supply, Implementation and Support of Accredited Electronic Billing System (EBC) and Lekuka E-Invoicing Solution for the Lehakoe Recreation and Cultural Centre",
      "es": "RFP-Supply, Implementation and Support of Accredited Electronic Billing System (EBC) and Lekuka E-Invoicing Solution for the Lehakoe Recreation and Cultural Centre"
-    },
-    {
-     "title": "Statement of the 121st Monetary Policy Committee(MPC)",
-     "url": "https://centralbank.org.ls/statement-of-the-121st-monetary-policy-committeempc/",
-     "lang": "en",
-     "en": "Statement of the 121st Monetary Policy Committee(MPC)",
-     "es": "Statement of the 121st Monetary Policy Committee(MPC)"
-    },
-    {
-     "title": "Tender Notice for Laptops, Monitors and Backpacks",
-     "url": "https://centralbank.org.ls/tender-notice-for-laptos-monitors-and-backpacks/",
-     "lang": "en",
-     "en": "Tender Notice for Laptops, Monitors and Backpacks",
-     "es": "Tender Notice for Laptops, Monitors and Backpacks"
     }
    ],
    "error": ""
@@ -817,25 +832,25 @@
    "source": "https://www.bancomoc.mz/en/media/highlights/",
    "items": [
     {
+     "title": "Thursday, 05 November 2026 CIRCULAR No. 03/EMO/2026 OF 28 OCTOBER – IMPLEMENTATION OF THE SPECIAL REGIME FOR THE DEDUCTION OF RESERVE REQUIREMENTS Circular No. 03/EMO/2026, of 28 October is now available.",
+     "url": "https://www.bancomoc.mz/en/media/highlights/circular-no-03-emo-2026-of-28-october-implementation-of-the-special-regime-for-the-deduction-of-reserve-requirements/",
+     "lang": "en",
+     "en": "Thursday, 05 November 2026 CIRCULAR No. 03/EMO/2026 OF 28 OCTOBER – IMPLEMENTATION OF THE SPECIAL REGIME FOR THE DEDUCTION OF RESERVE REQUIREMENTS Circular No. 03/EMO/2026, of 28 October is now available.",
+     "es": "Thursday, 05 November 2026 CIRCULAR No. 03/EMO/2026 OF 28 OCTOBER – IMPLEMENTATION OF THE SPECIAL REGIME FOR THE DEDUCTION OF RESERVE REQUIREMENTS Circular No. 03/EMO/2026, of 28 October is now available."
+    },
+    {
+     "title": "Thursday, 05 November 2026 CIRCULAR No. 01/OEF/2026 OF 12 JUNE – SORTING CRITERIA FOR 2024 SERIES METICAL BANKNOTES Circular No. 01/OEF/2026, of 12 June is now available.",
+     "url": "https://www.bancomoc.mz/en/media/highlights/circular-no-01-oef-2026-of-12-june-sorting-criteria-for-2024-series-metical-banknotes/",
+     "lang": "en",
+     "en": "Thursday, 05 November 2026 CIRCULAR No. 01/OEF/2026 OF 12 JUNE – SORTING CRITERIA FOR 2024 SERIES METICAL BANKNOTES Circular No. 01/OEF/2026, of 12 June is now available.",
+     "es": "Thursday, 05 November 2026 CIRCULAR No. 01/OEF/2026 OF 12 JUNE – SORTING CRITERIA FOR 2024 SERIES METICAL BANKNOTES Circular No. 01/OEF/2026, of 12 June is now available."
+    },
+    {
      "title": "Friday, 30 October 2026 NOVEMBER PRIME RATE UNCHANGED AT 15,50% The Mozambican Banking Association announces the Reference Rate, the Cost Premium, and the Prime Rate applicable for November 2026.",
      "url": "https://www.bancomoc.mz/en/media/highlights/november-prime-rate-unchanged-at-15-50/",
      "lang": "en",
      "en": "Friday, 30 October 2026 NOVEMBER PRIME RATE UNCHANGED AT 15,50% The Mozambican Banking Association announces the Reference Rate, the Cost Premium, and the Prime Rate applicable for November 2026.",
      "es": "Friday, 30 October 2026 NOVEMBER PRIME RATE UNCHANGED AT 15,50% The Mozambican Banking Association announces the Reference Rate, the Cost Premium, and the Prime Rate applicable for November 2026."
-    },
-    {
-     "title": "Friday, 30 October 2026 CELEBRATING WORLD SAVINGS DAY Tomorrow, 31 October, we mark World Savings Day.",
-     "url": "https://www.bancomoc.mz/en/media/highlights/celebrating-world-savings-day-2/",
-     "lang": "en",
-     "en": "Friday, 30 October 2026 CELEBRATING WORLD SAVINGS DAY Tomorrow, 31 October, we mark World Savings Day.",
-     "es": "Friday, 30 October 2026 CELEBRATING WORLD SAVINGS DAY Tomorrow, 31 October, we mark World Savings Day."
-    },
-    {
-     "title": "Thursday, 29 October 2026 CHANGE IN THE DATE OF THE SIXTH MEETING OF THE MONETARY POLICY COMMITEE IN 2026 The Banco de Moçambique announces the change in the date of the sixth meeting of the Monetary Policy Committee in 2026.",
-     "url": "https://www.bancomoc.mz/en/media/highlights/change-in-the-date-of-the-sixth-meeting-of-the-monetary-policy-commitee-in-2026/",
-     "lang": "en",
-     "en": "Thursday, 29 October 2026 CHANGE IN THE DATE OF THE SIXTH MEETING OF THE MONETARY POLICY COMMITEE IN 2026 The Banco de Moçambique announces the change in the date of the sixth meeting of the Monetary Policy Committee in 2026.",
-     "es": "Thursday, 29 October 2026 CHANGE IN THE DATE OF THE SIXTH MEETING OF THE MONETARY POLICY COMMITEE IN 2026 The Banco de Moçambique announces the change in the date of the sixth meeting of the Monetary Policy Committee in 2026."
     }
    ],
    "error": ""
@@ -896,6 +911,13 @@
      "es": "नेपाल धितोपत्र बोर्ड Securities Board of Nepal"
     },
     {
+     "title": "अन्तरदिवसीय कारोबार (Intraday Trading) सम्बन्धी नियमावलीको मस्यौदामा राय सुझाव माग गरिएको ।",
+     "url": "https://www.sebon.gov.np/news/अन्तरदिवसीय-कारोबार-intraday-trading-सम्बन्धी-नियमावलीको-मस्यौदामा-राय-सुझाव-माग-गरिएको।",
+     "lang": "ne",
+     "en": "अन्तरदिवसीय कारोबार (Intraday Trading) सम्बन्धी नियमावलीको मस्यौदामा राय सुझाव माग गरिएको ।",
+     "es": "अन्तरदिवसीय कारोबार (Intraday Trading) सम्बन्धी नियमावलीको मस्यौदामा राय सुझाव माग गरिएको ।"
+    },
+    {
      "title": "नेपालमा नवीनतम वित्तीय उपकरण विकास तथा सञ्चालन व्यवस्थापनका लागि आवश्यक कानूनी, प्राविधिक तथा संस्थागत पूर्वाधारको विकास सम्बन्धी कार्य अगाडि बढाउन समिति गठन सम्बन्धमा।",
      "url": "https://www.sebon.gov.np/news/नेपालमा-नवीनतम-वित्तीय-उपकरण-विकास-तथा-सञ्चालन-व्यवस्थापनका-लागि-आवश्यक-कानूनी-प्राविधिक-तथा-संस्थागत-पूर्वाधारको-विकास-सम्बन्धी-कार्य-अगाडि-बढाउन-समिति-गठन-सम्बन्धमा।",
      "lang": "ne",
@@ -915,13 +937,6 @@
      "lang": "ne",
      "en": "स्टक एक्सचेञ्ज सुधार प्रक्रिया अगाडि बढाउन बोर्डका उच्च पदाधिकारी तथा नेप्सेका सञ्चालक समितिबीच छलफल सम्पन्न।",
      "es": "स्टक एक्सचेञ्ज सुधार प्रक्रिया अगाडि बढाउन बोर्डका उच्च पदाधिकारी तथा नेप्सेका सञ्चालक समितिबीच छलफल सम्पन्न।"
-    },
-    {
-     "title": "सामूहिक लगानी कोषलाई दीर्घकालीन पूँजी परिचालन गर्ने माध्यमको रुपमा विकास गर्ने उद्देश्य सहित तयार गरिएको सामूहिक लगानी कोष नीति, २०८३ को मस्यौदामा राय सुझाव माग गरिएको सम्बन्धमा।",
-     "url": "https://www.sebon.gov.np/news/सामूहिक-लगानी-कोषलाई-दीर्घकालीन-पूँजी-परिचालन-गर्ने-माध्यमको-रुपमा-विकास-गर्ने-उद्देश्य-सहित-तयार-गरिएको-सामूहिक-लगानी-कोष-नीति-२०८३-को-मस्यौदामा-राय-सुझाव-माग-गरिएको-सम्बन्धमा।",
-     "lang": "ne",
-     "en": "सामूहिक लगानी कोषलाई दीर्घकालीन पूँजी परिचालन गर्ने माध्यमको रुपमा विकास गर्ने उद्देश्य सहित तयार गरिएको सामूहिक लगानी कोष नीति, २०८३ को मस्यौदामा राय सुझाव माग गरिएको सम्बन्धमा।",
-     "es": "सामूहिक लगानी कोषलाई दीर्घकालीन पूँजी परिचालन गर्ने माध्यमको रुपमा विकास गर्ने उद्देश्य सहित तयार गरिएको सामूहिक लगानी कोष नीति, २०८३ को मस्यौदामा राय सुझाव माग गरिएको सम्बन्धमा।"
     }
    ],
    "error": ""
@@ -930,44 +945,8 @@
    "institution": "Qatar Financial Centre Regulatory Authority",
    "jurisdiction": "Qatar",
    "source": "https://www.qfcra.com",
-   "items": [
-    {
-     "title": "THE APPLICATION PROCESS",
-     "url": "https://www.qfcra.com/the-application-process/",
-     "lang": "vi",
-     "en": "THE APPLICATION PROCESS",
-     "es": "THE APPLICATION PROCESS"
-    },
-    {
-     "title": "Our Firms and other Supporting Entities",
-     "url": "https://www.qfcra.com/our-firms/",
-     "lang": "en",
-     "en": "Our Firms and other Supporting Entities",
-     "es": "Our Firms and other Supporting Entities"
-    },
-    {
-     "title": "Publications and Media",
-     "url": "https://www.qfcra.com/publications-and-media/",
-     "lang": "en",
-     "en": "Publications and Media",
-     "es": "Publications and Media"
-    },
-    {
-     "title": "INTERNATIONAL CO-OPERATION",
-     "url": "https://www.qfcra.com/international-co-operation/",
-     "lang": "pt",
-     "en": "INTERNATIONAL CO-OPERATION",
-     "es": "INTERNATIONAL CO-OPERATION"
-    },
-    {
-     "title": "SUPERVISION AND AUTHORISATION",
-     "url": "https://www.qfcra.com/supervision-and-authorisation/",
-     "lang": "tl",
-     "en": "SUPERVISION AND AUTHORISATION",
-     "es": "SUPERVISION AND AUTHORISATION"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ReadTimeout HTTPSConnectionPool(host='www.qfcra.com', port=443): Read timed out. (read timeo"
   },
   {
    "institution": "Capital Market Authority",
@@ -980,6 +959,13 @@
      "lang": "en",
      "en": "CMA Rwanda Joins IOSCO World Investor Week 2026 📅 10/05/2026 The Capital Markets Authority of Rwanda (CMA) joined securities regulators and market stakeholders worldwide to mark the 10th edition of IOSCO World Investor Week (WIW), taking...",
      "es": "CMA Rwanda Joins IOSCO World Investor Week 2026 📅 10/05/2026 The Capital Markets Authority of Rwanda (CMA) joined securities regulators and market stakeholders worldwide to mark the 10th edition of IOSCO World Investor Week (WIW), taking..."
+    },
+    {
+     "title": "Invitation for Public Comments on the Draft Regulations Implementing the Law Regulating Virtual Asset Business in Rwanda",
+     "url": "https://www.cma.rw/news-publications/press-center/invitation-for-public-comments-on-the-draft-regulations-implementing-the-law-regulating-virtual-asset-business-in-rwanda",
+     "lang": "en",
+     "en": "Invitation for Public Comments on the Draft Regulations Implementing the Law Regulating Virtual Asset Business in Rwanda",
+     "es": "Invitation for Public Comments on the Draft Regulations Implementing the Law Regulating Virtual Asset Business in Rwanda"
     },
     {
      "title": "Capital Markets Roadshows Reach Entrepreneurs in Western and Northern Provinces",
@@ -1001,13 +987,6 @@
      "lang": "en",
      "en": "Rwanda’s Capital Markets in the Age of AI: Protecting Investor Trust",
      "es": "Rwanda’s Capital Markets in the Age of AI: Protecting Investor Trust"
-    },
-    {
-     "title": "Rwanda rings the bell for investor education during World Investor Week",
-     "url": "https://www.cma.rw/news-publications/press-center/rwanda-rings-the-bell-for-investor-education-during-world-investor-week",
-     "lang": "en",
-     "en": "Rwanda rings the bell for investor education during World Investor Week",
-     "es": "Rwanda rings the bell for investor education during World Investor Week"
     }
    ],
    "error": ""
@@ -1016,44 +995,8 @@
    "institution": "Financial Services Authority",
    "jurisdiction": "Seychelles",
    "source": "https://fsaseychelles.sc/media-corner/press-releases",
-   "items": [
-    {
-     "title": "Press Release - Ongoing regulatory review concerning SQ Sey Ltd (Licence No. SD024)",
-     "url": "https://fsaseychelles.sc/news/press-releases/ongoing-regulatory-review-concerning-sq-sey-ltd-licence-no-sd024",
-     "lang": "en",
-     "en": "Press Release - Ongoing regulatory review concerning SQ Sey Ltd (Licence No. SD024)",
-     "es": "Press Release - Ongoing regulatory review concerning SQ Sey Ltd (Licence No. SD024)"
-    },
-    {
-     "title": "Press Release - FSA Takes Enforcement Action Against MX Global Ltd for Unlicensed Virtual Asset Services Operations",
-     "url": "https://fsaseychelles.sc/news/press-releases/fsa-takes-enforcement-action-against-mx-global-ltd-for-unlicensed-virtual-asset-services-operations",
-     "lang": "en",
-     "en": "Press Release - FSA Takes Enforcement Action Against MX Global Ltd for Unlicensed Virtual Asset Services Operations",
-     "es": "Press Release - FSA Takes Enforcement Action Against MX Global Ltd for Unlicensed Virtual Asset Services Operations"
-    },
-    {
-     "title": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents",
-     "url": "https://fsaseychelles.sc/news/communique/communique-no-1-of-2026-work-from-home-arrangements-digital-submission-of-documents",
-     "lang": "fr",
-     "en": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents",
-     "es": "Communiqué No 1 of 2026 - Work-From-Home Arrangements & Digital Submission of Documents"
-    },
-    {
-     "title": "Press Release - Seychelles EOIR Report Largely Compliant",
-     "url": "https://fsaseychelles.sc/news/press-releases/press-release-seychelles-eoir-report-largely-compliant",
-     "lang": "en",
-     "en": "Press Release - Seychelles EOIR Report Largely Compliant",
-     "es": "Press Release - Seychelles EOIR Report Largely Compliant"
-    },
-    {
-     "title": "AML-CFT Supervisors sign Joint Enforcement Policy",
-     "url": "https://fsaseychelles.sc/news/communique/aml-cft-supervisors-sign-joint-enforcement-policy",
-     "lang": "en",
-     "en": "AML-CFT Supervisors sign Joint Enforcement Policy",
-     "es": "AML-CFT Supervisors sign Joint Enforcement Policy"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "HTTPError 503 Server Error: Service Unavailable for url: https://fsaseychelles.sc/media-co"
   },
   {
    "institution": "Prudential Authority",
@@ -1157,7 +1100,7 @@
     {
      "title": "Electronic Prudential Reporting",
      "url": "https://www.adgm.com/operating-in-adgm/e-services/electronic-prudential-reporting",
-     "lang": "ro",
+     "lang": "es",
      "en": "Electronic Prudential Reporting",
      "es": "Electronic Prudential Reporting"
     },
@@ -1169,18 +1112,18 @@
      "es": "ADGM eCourts Platform"
     },
     {
+     "title": "RA Consultation Platform",
+     "url": "https://www.adgm.com/operating-in-adgm/e-services/ra-consultation-platform",
+     "lang": "en",
+     "en": "RA Consultation Platform",
+     "es": "RA Consultation Platform"
+    },
+    {
      "title": "Regulatory Request for Information Portal",
      "url": "https://www.adgm.com/financial-services-regulatory-authority/regulatory-request-for-information-portal",
      "lang": "en",
      "en": "Regulatory Request for Information Portal",
      "es": "Regulatory Request for Information Portal"
-    },
-    {
-     "title": "Frequently Asked Questions",
-     "url": "https://www.adgm.com/faqs",
-     "lang": "en",
-     "en": "Frequently Asked Questions",
-     "es": "Frequently Asked Questions"
     }
    ],
    "error": ""
@@ -1221,7 +1164,7 @@
     {
      "title": "Depozito AnkesÃ«n Online",
      "url": "http://crm.amf.gov.al",
-     "lang": "sl",
+     "lang": "de",
      "en": "Depozito AnkesÃ«n Online",
      "es": "Depozito AnkesÃ«n Online"
     }
@@ -1277,8 +1220,22 @@
    "source": "https://www.cosob.dz",
    "items": [
     {
+     "title": "Note aux Intermédiaires en Opérations de Bourse (IOB)",
+     "url": "https://cosob.dz/note-aux-intermediaires-en-operations-de-bourse-iob-2/",
+     "lang": "fr",
+     "en": "Note aux Intermédiaires en Opérations de Bourse (IOB)",
+     "es": "Note aux Intermédiaires en Opérations de Bourse (IOB)"
+    },
+    {
+     "title": "Monsieur Youcef Bouzenada, président de la COSOB, reçoit Monsieur Ousmane Dione, vice-président du Groupe de la Banque mondiale pour la région MENAAP",
+     "url": "https://cosob.dz/monsieur-youcef-bouzenada-president-de-la-cosob-recoit-monsieur-ousmane-dione-vice-president-du-groupe-de-la-banque-mondiale-pour-la-region-menaap/",
+     "lang": "fr",
+     "en": "Monsieur Youcef Bouzenada, président de la COSOB, reçoit Monsieur Ousmane Dione, vice-président du Groupe de la Banque mondiale pour la région MENAAP",
+     "es": "Monsieur Youcef Bouzenada, président de la COSOB, reçoit Monsieur Ousmane Dione, vice-président du Groupe de la Banque mondiale pour la région MENAAP"
+    },
+    {
      "title": "Position COSOB n°2/2026 du 28 octobre 2026 portant sur le mode de calcul du ratio de division des risques par les sociétés de capital investissement, prévu à l’article 17 de la loi n° 06-11 du 24 juin 2006, modifiée et complétée, relative à la société de capital-investissement",
-     "url": "https://cosob.dz/wp-content/uploads/2026/11/Position-Commission-28-oct-2026.pdf",
+     "url": "https://cosob.dz/wp-content/uploads/2026/11/Position-Commission-28-oct-2026-1.pdf",
      "lang": "fr",
      "en": "Position COSOB n°2/2026 du 28 octobre 2026 portant sur le mode de calcul du ratio de division des risques par les sociétés de capital investissement, prévu à l’article 17 de la loi n° 06-11 du 24 juin 2006, modifiée et complétée, relative à la société de capital-investissement",
      "es": "Position COSOB n°2/2026 du 28 octobre 2026 portant sur le mode de calcul du ratio de division des risques par les sociétés de capital investissement, prévu à l’article 17 de la loi n° 06-11 du 24 juin 2006, modifiée et complétée, relative à la société de capital-investissement"
@@ -1296,20 +1253,6 @@
      "lang": "fr",
      "en": "Date de mise en paiement de la rémunération des titres participatifs au titre de l’exercice 2025 – RELAXI Spa",
      "es": "Date de mise en paiement de la rémunération des titres participatifs au titre de l’exercice 2025 – RELAXI Spa"
-    },
-    {
-     "title": "Manquements aux obligations de publication et de divulgation de l’information financière",
-     "url": "https://cosob.dz/manquements-aux-obligations-de-publication-et-de-divulgation-de-linformation-financiere/",
-     "lang": "fr",
-     "en": "Manquements aux obligations de publication et de divulgation de l’information financière",
-     "es": "Manquements aux obligations de publication et de divulgation de l’information financière"
-    },
-    {
-     "title": "Prorogation du délai de publication de l’information financière au titre du premier semestre 2026 – CRAPC EXPERTISE Spa",
-     "url": "https://cosob.dz/prorogation-du-delai-de-publication-de-linformation-financiere-au-titre-du-premier-semestre-2026-crapc-expertise-spa/",
-     "lang": "fr",
-     "en": "Prorogation du délai de publication de l’information financière au titre du premier semestre 2026 – CRAPC EXPERTISE Spa",
-     "es": "Prorogation du délai de publication de l’information financière au titre du premier semestre 2026 – CRAPC EXPERTISE Spa"
     }
    ],
    "error": ""
@@ -1368,20 +1311,6 @@
      "lang": "pt",
      "en": "Sistema de Difusão de Informação",
      "es": "Sistema de Difusão de Informação"
-    },
-    {
-     "title": "Publicado a 30 Out 2026 CMC participa na Summit Normas & Banca + A Comissão do Mercado de Capitais (CMC) participou, a 24 de Outubro de 2026, na Summit Normas & Banca +. O evento decorreu sob o lema “Do Papel à…",
-     "url": "https://www.cmc.ao/node/2560",
-     "lang": "pt",
-     "en": "Publicado a 30 Out 2026 CMC participa na Summit Normas & Banca + A Comissão do Mercado de Capitais (CMC) participou, a 24 de Outubro de 2026, na Summit Normas & Banca +. O evento decorreu sob o lema “Do Papel à…",
-     "es": "Publicado a 30 Out 2026 CMC participa na Summit Normas & Banca + A Comissão do Mercado de Capitais (CMC) participou, a 24 de Outubro de 2026, na Summit Normas & Banca +. O evento decorreu sob o lema “Do Papel à…"
-    },
-    {
-     "title": "Publicado a 29 Out 2026 Presidente da República Destaca Avanços No Mercado de Capitais O Presidente da República de Angola, destacou o progresso registado no mercado de capitais angolano, no discurso sobre o Estado da Nação, proferido no…",
-     "url": "https://www.cmc.ao/node/2551",
-     "lang": "pt",
-     "en": "Publicado a 29 Out 2026 Presidente da República Destaca Avanços No Mercado de Capitais O Presidente da República de Angola, destacou o progresso registado no mercado de capitais angolano, no discurso sobre o Estado da Nação, proferido no…",
-     "es": "Publicado a 29 Out 2026 Presidente da República Destaca Avanços No Mercado de Capitais O Presidente da República de Angola, destacou o progresso registado no mercado de capitais angolano, no discurso sobre o Estado da Nação, proferido no…"
     },
     {
      "title": "Mais conteúdos recomendados",
@@ -1493,39 +1422,39 @@
    "source": "https://www.fma.gv.at/en/category/news-en/press-release/",
    "items": [
     {
+     "title": "FMA and Vienna University of Economics and Business introduce financial know-how for the classroom: “financial literacy is a life skill”",
+     "url": "https://www.fma.gv.at/en/fma-and-wu-introduce-financial-know-how-for-classroom-financial-literacy-life-skill/",
+     "lang": "en",
+     "en": "FMA and Vienna University of Economics and Business introduce financial know-how for the classroom: “financial literacy is a life skill”",
+     "es": "FMA and Vienna University of Economics and Business introduce financial know-how for the classroom: “financial literacy is a life skill”"
+    },
+    {
+     "title": "The FMA warns against offerings by AI App",
+     "url": "https://www.fma.gv.at/en/the-fma-warns-against-offerings-by-ai-app/",
+     "lang": "en",
+     "en": "The FMA warns against offerings by AI App",
+     "es": "The FMA warns against offerings by AI App"
+    },
+    {
+     "title": "Announcement: FMA imposes sanction against HYPO-BANK BURGENLAND Aktiengesellschaft for breaches of the Professional Rules of Conduct for Insurance Mediation",
+     "url": "https://www.fma.gv.at/en/announcement-fma-imposes-sanction-against-hypo-bank-burgenland-aktiengesellschaft-for-breaches-of-the-professional-rules-of-conduct-for-insurance-mediation/",
+     "lang": "en",
+     "en": "Announcement: FMA imposes sanction against HYPO-BANK BURGENLAND Aktiengesellschaft for breaches of the Professional Rules of Conduct for Insurance Mediation",
+     "es": "Announcement: FMA imposes sanction against HYPO-BANK BURGENLAND Aktiengesellschaft for breaches of the Professional Rules of Conduct for Insurance Mediation"
+    },
+    {
+     "title": "“Investments in Bricks and Mortar” – the FMA informs about investment products with real estate links",
+     "url": "https://www.fma.gv.at/en/investments-in-bricks-and-mortar-the-fma-informs-about-investment-products-with-real-estate-links/",
+     "lang": "en",
+     "en": "“Investments in Bricks and Mortar” – the FMA informs about investment products with real estate links",
+     "es": "“Investments in Bricks and Mortar” – the FMA informs about investment products with real estate links"
+    },
+    {
      "title": "Oliver Schütz takes up office as new FMA Executive Board Member",
      "url": "https://www.fma.gv.at/en/oliver-schuetz-takes-up-office-as-new-fma-executive-board-member/",
      "lang": "en",
      "en": "Oliver Schütz takes up office as new FMA Executive Board Member",
      "es": "Oliver Schütz takes up office as new FMA Executive Board Member"
-    },
-    {
-     "title": "The FMA warns against offerings by Velmato Edge",
-     "url": "https://www.fma.gv.at/en/the-fma-warns-against-offerings-by-velmato-edge/",
-     "lang": "en",
-     "en": "The FMA warns against offerings by Velmato Edge",
-     "es": "The FMA warns against offerings by Velmato Edge"
-    },
-    {
-     "title": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen",
-     "url": "https://www.fma.gv.at/en/lapsing-of-licence-raiffeisenbank-region-deutschkreutz-horitschon-egen/",
-     "lang": "de",
-     "en": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen",
-     "es": "Lapsing of Licence: Raiffeisenbank Region Deutschkreutz-Horitschon eGen"
-    },
-    {
-     "title": "The FMA warns against concluding transactions with Alliston-Westbury",
-     "url": "https://www.fma.gv.at/en/the-fma-warns-against-concluding-transactions-with-alliston-westbury/",
-     "lang": "en",
-     "en": "The FMA warns against concluding transactions with Alliston-Westbury",
-     "es": "The FMA warns against concluding transactions with Alliston-Westbury"
-    },
-    {
-     "title": "The FMA warns against concluding transactions with M3 DAO",
-     "url": "https://www.fma.gv.at/en/the-fma-warns-against-concluding-transactions-with-m3-dao/",
-     "lang": "en",
-     "en": "The FMA warns against concluding transactions with M3 DAO",
-     "es": "The FMA warns against concluding transactions with M3 DAO"
     }
    ],
    "error": ""
@@ -1535,6 +1464,27 @@
    "jurisdiction": "Bahamas",
    "source": "https://www.scb.gov.bs/news/",
    "items": [
+    {
+     "title": "Public Notice No. 12 of 2026 – Entities Not Regulated by the Securities Commission of The Bahamas",
+     "url": "https://scb.gov.bs/wp-content/uploads/2026/11/Public-Notice-12-of-2026-Entities-Not-Regulated-by-SCB-1-1.pdf#new_tab",
+     "lang": "en",
+     "en": "Public Notice No. 12 of 2026 – Entities Not Regulated by the Securities Commission of The Bahamas",
+     "es": "Public Notice No. 12 of 2026 – Entities Not Regulated by the Securities Commission of The Bahamas"
+    },
+    {
+     "title": "Financial Action Task Force Public Statement on Democratic People’s Republic of Korea, Iran and Myanmar (High-Risk Jurisdictions subject to a Call for Action) 30 October 2026",
+     "url": "https://scb.gov.bs/wp-content/uploads/2026/11/Financial-Action-Task-Force-Public-Statement-High-Risk-Jurisdictions-subject-to-a-Call-for-Action-October-2026-1.pdf#new_tab",
+     "lang": "en",
+     "en": "Financial Action Task Force Public Statement on Democratic People’s Republic of Korea, Iran and Myanmar (High-Risk Jurisdictions subject to a Call for Action) 30 October 2026",
+     "es": "Financial Action Task Force Public Statement on Democratic People’s Republic of Korea, Iran and Myanmar (High-Risk Jurisdictions subject to a Call for Action) 30 October 2026"
+    },
+    {
+     "title": "Financial Action Task Force Public Statement on list of Jurisdictions Under Increased Monitoring 30 October 2026",
+     "url": "https://scb.gov.bs/wp-content/uploads/2026/11/Financial-Action-Task-Force-Public-Statement-on-list-of-Jurisdictions-under-Increased-Monitoring-October-2026-1.pdf#new_tab",
+     "lang": "en",
+     "en": "Financial Action Task Force Public Statement on list of Jurisdictions Under Increased Monitoring 30 October 2026",
+     "es": "Financial Action Task Force Public Statement on list of Jurisdictions Under Increased Monitoring 30 October 2026"
+    },
     {
      "title": "SCB Digital Asset Supervision and Surveillance Report 2021-2026",
      "url": "https://scb.gov.bs/wp-content/uploads/2026/10/Digital-Asset-Supervision-and-Surveillance-Report-2021-2026-f.pdf#new_tab",
@@ -1548,27 +1498,6 @@
      "lang": "en",
      "en": "SCB Risk Assessment Report: Digital Assets Sector",
      "es": "SCB Risk Assessment Report: Digital Assets Sector"
-    },
-    {
-     "title": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Financial Services Segment",
-     "url": "https://scb.gov.bs/wp-content/uploads/2026/10/PUBLIC-Financial-Services-Sector-Risk-Assessment-Report-f-v2.pdf#new_tab",
-     "lang": "en",
-     "en": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Financial Services Segment",
-     "es": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Financial Services Segment"
-    },
-    {
-     "title": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Corporate Services Segment",
-     "url": "https://scb.gov.bs/wp-content/uploads/2026/10/PUBLIC-Corporate-Services-Sector-Risk-Assessment-Report-f-v2.pdf#new_tab",
-     "lang": "en",
-     "en": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Corporate Services Segment",
-     "es": "SCB Risk Assessment Report: Financial and Corporate Service Providers: Corporate Services Segment"
-    },
-    {
-     "title": "SCB Risk Assessment Report: Securities Sector",
-     "url": "https://scb.gov.bs/wp-content/uploads/2026/10/PUBLIC-Securities-Sector-Risk-Assessment-Report-v2.pdf#new_tab",
-     "lang": "en",
-     "en": "SCB Risk Assessment Report: Securities Sector",
-     "es": "SCB Risk Assessment Report: Securities Sector"
     }
    ],
    "error": ""
@@ -1688,7 +1617,7 @@
     {
      "title": "Administrative sanctions",
      "url": "https://www.fsma.be/en/administrative-sanctions",
-     "lang": "fr",
+     "lang": "en",
      "en": "Administrative sanctions",
      "es": "Administrative sanctions"
     },
@@ -1715,6 +1644,20 @@
    "source": "https://www.belizefsc.org.bz",
    "items": [
     {
+     "title": "GOS Advisory 0003-2026 High-risk and other monitored jurisdictions identified by FATF",
+     "url": "https://www.belizefsc.org.bz/gos-advisory-0003-2026-high-risk-and-other-monitored-jurisdictions-identified-by-fatf/",
+     "lang": "en",
+     "en": "GOS Advisory 0003-2026 High-risk and other monitored jurisdictions identified by FATF",
+     "es": "GOS Advisory 0003-2026 High-risk and other monitored jurisdictions identified by FATF"
+    },
+    {
+     "title": "WARNING NOTICE – ALLISON MACKENZIE, et al.",
+     "url": "https://www.belizefsc.org.bz/warning-notice-allison-mackenzie-et-al/",
+     "lang": "fr",
+     "en": "WARNING NOTICE – ALLISON MACKENZIE, et al.",
+     "es": "WARNING NOTICE – ALLISON MACKENZIE, et al."
+    },
+    {
      "title": "Extension of Deadline for Submission of Statements Regarding Nominee Relationships Pursuant to the Financial Services Commission (Nominee Shareholders and Directors) Regulations, 2026",
      "url": "https://www.belizefsc.org.bz/extension-of-deadline-for-submission-of-statements-regarding-nominee-relationships-pursuant-to-the-financial-services-commission-nominee-shareholders-and-directors-regulations-2026/",
      "lang": "en",
@@ -1734,20 +1677,6 @@
      "lang": "en",
      "en": "Financial Reporting and Record Keeping Practices for Non-Profit Organisations (NPOs)",
      "es": "Financial Reporting and Record Keeping Practices for Non-Profit Organisations (NPOs)"
-    },
-    {
-     "title": "Annual Report 2025",
-     "url": "https://www.belizefsc.org.bz/annual-report-2025/",
-     "lang": "ro",
-     "en": "Annual Report 2025",
-     "es": "Annual Report 2025"
-    },
-    {
-     "title": "Acceptance Remarks – Formal Transfer of the Advisory Board Chairmanship (UB Institute of Banking Finance)",
-     "url": "https://www.belizefsc.org.bz/acceptance-remarks-formal-transfer-of-the-advisory-board-chairmanship-ub-ibf/",
-     "lang": "en",
-     "en": "Acceptance Remarks – Formal Transfer of the Advisory Board Chairmanship (UB Institute of Banking Finance)",
-     "es": "Acceptance Remarks – Formal Transfer of the Advisory Board Chairmanship (UB Institute of Banking Finance)"
     }
    ],
    "error": ""
@@ -1756,8 +1685,23 @@
    "institution": "Bermuda Monetary Authority",
    "jurisdiction": "Bermuda",
    "source": "https://www.bma.bm/news-and-press-releases",
-   "items": [],
-   "error": "ReadTimeout HTTPSConnectionPool(host='www.bma.bm', port=443): Read timed out. (read timeout="
+   "items": [
+    {
+     "title": "Bermuda Monetary Authority Privacy Policy",
+     "url": "https://www.bma.bm/website-privacy-policy",
+     "lang": "en",
+     "en": "Bermuda Monetary Authority Privacy Policy",
+     "es": "Bermuda Monetary Authority Privacy Policy"
+    },
+    {
+     "title": "BMA Business Plan 2026",
+     "url": "https://www.bma.bm/pdfview/11132",
+     "lang": "de",
+     "en": "BMA Business Plan 2026",
+     "es": "BMA Business Plan 2026"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Autoridad de Supervisión del Sistema Financiero",
@@ -1899,14 +1843,57 @@
    "institution": "British Virgin Islands Financial Services Commission",
    "jurisdiction": "British Virgin Islands",
    "source": "https://www.bvifsc.vg/news/press-releases",
-   "items": [],
-   "error": "HTTPError 403 Client Error: Forbidden for url: https://www.bvifsc.vg/news/press-releases"
+   "items": [
+    {
+     "title": "Board of Commissioners",
+     "url": "https://www.bvifsc.vg/about-us/governance/board-of-commissioners",
+     "lang": "en",
+     "en": "Board of Commissioners",
+     "es": "Board of Commissioners"
+    },
+    {
+     "title": "Organisational Chart",
+     "url": "https://www.bvifsc.vg/organisational-chart",
+     "lang": "en",
+     "en": "Organisational Chart",
+     "es": "Organisational Chart"
+    },
+    {
+     "title": "Statutory Committees",
+     "url": "https://www.bvifsc.vg/statutory-committees",
+     "lang": "en",
+     "en": "Statutory Committees",
+     "es": "Statutory Committees"
+    },
+    {
+     "title": "Registry of Corporate Affairs",
+     "url": "https://www.bvifsc.vg/registry-corporate-affairs",
+     "lang": "en",
+     "en": "Registry of Corporate Affairs",
+     "es": "Registry of Corporate Affairs"
+    },
+    {
+     "title": "Banking, Insolvency & Fiduciary Services",
+     "url": "https://www.bvifsc.vg/division/banking-and-fiduciary-services",
+     "lang": "en",
+     "en": "Banking, Insolvency & Fiduciary Services",
+     "es": "Banking, Insolvency & Fiduciary Services"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Brunei Darussalam Central Bank",
    "jurisdiction": "Brunei",
    "source": "https://www.bdcb.gov.bn",
    "items": [
+    {
+     "title": "Successful Issuance of Brunei Darussalam Government Sukuk Al-Ijarah Securities 266th Series",
+     "url": "https://www.bdcb.gov.bn/publications/details?id=01m6n7ba2y6pyz0jqt4r6a38w1",
+     "lang": "en",
+     "en": "Successful Issuance of Brunei Darussalam Government Sukuk Al-Ijarah Securities 266th Series",
+     "es": "Successful Issuance of Brunei Darussalam Government Sukuk Al-Ijarah Securities 266th Series"
+    },
     {
      "title": "Withdrawal of Approval of Beep Digital Solutions Sdn Bhd as a Payment System Operator",
      "url": "https://www.bdcb.gov.bn/publications/details?id=01m6dphhhd8venxsfwjbrvyg46",
@@ -1929,13 +1916,6 @@
      "es": "Successful Issuance of BDCB Islamic Bills 271st Series"
     },
     {
-     "title": "Business Sentiment Index (BSI) For Brunei Darussalam For August 2026",
-     "url": "https://www.bdcb.gov.bn/publications/details?id=01m5bgrd8mqwfe8yv3v1xmyavf",
-     "lang": "de",
-     "en": "Business Sentiment Index (BSI) For Brunei Darussalam For August 2026",
-     "es": "Business Sentiment Index (BSI) For Brunei Darussalam For August 2026"
-    },
-    {
      "title": "Article Series: Building Investor Resilience",
      "url": "https://www.bdcb.gov.bn/publications/details?id=01m5kvx3namf70gsyj8ddscn2q",
      "lang": "en",
@@ -1950,6 +1930,20 @@
    "jurisdiction": "Bulgaria",
    "source": "https://www.fsc.bg/en/news/",
    "items": [
+    {
+     "title": "Warning regarding the unauthorized use of the name of a Danish company",
+     "url": "https://www.fsc.bg/en/warning-regarding-the-unauthorized-use-of-the-name-of-a-danish-company/",
+     "lang": "en",
+     "en": "Warning regarding the unauthorized use of the name of a Danish company",
+     "es": "Warning regarding the unauthorized use of the name of a Danish company"
+    },
+    {
+     "title": "Carlo Comporti takes office as Chair of the European Securities and Markets Authority (ESMA)",
+     "url": "https://www.fsc.bg/en/carlo-comporti-takes-office-as-chair-of-the-european-securities-and-markets-authority-esma/",
+     "lang": "en",
+     "en": "Carlo Comporti takes office as Chair of the European Securities and Markets Authority (ESMA)",
+     "es": "Carlo Comporti takes office as Chair of the European Securities and Markets Authority (ESMA)"
+    },
     {
      "title": "One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen",
      "url": "https://www.fsc.bg/en/one-year-to-go-for-t-1-settlement-the-regulatory-framework-is-complete-now-lets-make-it-happen/",
@@ -1970,20 +1964,6 @@
      "lang": "en",
      "en": "Preparations and testing become the focus of the transition to the T+1 settlement cycle",
      "es": "Preparations and testing become the focus of the transition to the T+1 settlement cycle"
-    },
-    {
-     "title": "The Financial Supervision Commission has sent notification about its consent for the portfolio transfer from “Europäische Reiseversicherung Aktiengesellschaft” to “Europ Assistance S.A.”",
-     "url": "https://www.fsc.bg/en/the-financial-supervision-commission-has-sent-notification-about-its-consent-for-the-portfolio-transfer-from-europ%c3%a4ische-reiseversicherung-aktiengesellschaft-to-europ-a/",
-     "lang": "en",
-     "en": "The Financial Supervision Commission has sent notification about its consent for the portfolio transfer from “Europäische Reiseversicherung Aktiengesellschaft” to “Europ Assistance S.A.”",
-     "es": "The Financial Supervision Commission has sent notification about its consent for the portfolio transfer from “Europäische Reiseversicherung Aktiengesellschaft” to “Europ Assistance S.A.”"
-    },
-    {
-     "title": "List of entities which are not authorized by FSC",
-     "url": "https://www.fsc.bg/en/list-of-entities-which-are-not-authorized-by-fsc-7/",
-     "lang": "en",
-     "en": "List of entities which are not authorized by FSC",
-     "es": "List of entities which are not authorized by FSC"
     }
    ],
    "error": ""
@@ -2110,7 +2090,7 @@
     {
      "title": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026",
      "url": "https://cosumaf.org/actualites/avis-dappel-doffres-n01-2026cosumaf",
-     "lang": "fr",
+     "lang": "en",
      "en": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026",
      "es": "Appel d'offres Avis d'appel d'offres N°01-2026/COSUMAF 09/10/2026"
     }
@@ -2123,18 +2103,25 @@
    "source": "https://www.cmfchile.cl/portal/prensa/615/w3-channel.html",
    "items": [
     {
-     "title": "Presidenta Catherine Tornel: “Nuestro desafío como país es avanzar hacia una inclusión financiera efectiva, que impacte de manera significativa el bienestar financiero de las personas”",
-     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114578.html",
+     "title": "CMF publica norma sobre el envío de información de volumen de negocio para Intermediarios de Valores y Corredores de Bolsa de Productos",
+     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114754.html",
      "lang": "es",
-     "en": "Presidenta Catherine Tornel: “Nuestro desafío como país es avanzar hacia una inclusión financiera efectiva, que impacte de manera significativa el bienestar financiero de las personas”",
-     "es": "Presidenta Catherine Tornel: “Nuestro desafío como país es avanzar hacia una inclusión financiera efectiva, que impacte de manera significativa el bienestar financiero de las personas”"
+     "en": "CMF publica norma sobre el envío de información de volumen de negocio para Intermediarios de Valores y Corredores de Bolsa de Productos",
+     "es": "CMF publica norma sobre el envío de información de volumen de negocio para Intermediarios de Valores y Corredores de Bolsa de Productos"
     },
     {
-     "title": "CMF emite normativa que implementa nuevo mecanismo para facilitar el cumplimiento de la obligación legal de las entidades fiscalizadas de enterar recursos a Bomberos",
-     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114552.html",
+     "title": "CMF establece nuevos plazos para la inscripción de operadores de tarjetas de pago",
+     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114719.html",
      "lang": "es",
-     "en": "CMF emite normativa que implementa nuevo mecanismo para facilitar el cumplimiento de la obligación legal de las entidades fiscalizadas de enterar recursos a Bomberos",
-     "es": "CMF emite normativa que implementa nuevo mecanismo para facilitar el cumplimiento de la obligación legal de las entidades fiscalizadas de enterar recursos a Bomberos"
+     "en": "CMF establece nuevos plazos para la inscripción de operadores de tarjetas de pago",
+     "es": "CMF establece nuevos plazos para la inscripción de operadores de tarjetas de pago"
+    },
+    {
+     "title": "Evolución del sistema de pagos",
+     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114679.html",
+     "lang": "es",
+     "en": "Evolución del sistema de pagos",
+     "es": "Evolución del sistema de pagos"
     },
     {
      "title": "Evolución y Perspectivas de la Industria de Fondos Alternativos",
@@ -2149,13 +2136,6 @@
      "lang": "es",
      "en": "Acompañamiento a la implementación de la NCG 519 y los estándares NIIF S1 y S2",
      "es": "Acompañamiento a la implementación de la NCG 519 y los estándares NIIF S1 y S2"
-    },
-    {
-     "title": "Mercado de Seguros: Agenda CMF",
-     "url": "https://www.cmfchile.cl/portal/prensa/615/w4-article-114085.html",
-     "lang": "pt",
-     "en": "Mercado de Seguros: Agenda CMF",
-     "es": "Mercado de Seguros: Agenda CMF"
     }
    ],
    "error": ""
@@ -2165,7 +2145,7 @@
    "jurisdiction": "China",
    "source": "https://www.csrc.gov.cn/csrc_en/c102030/common_list.shtml",
    "items": [],
-   "error": "ConnectTimeout HTTPSConnectionPool(host='www.csrc.gov.cn', port=443): Max retries exceeded with"
+   "error": "sin titulares en el HTML"
   },
   {
    "institution": "Financial Supervisory Commission",
@@ -2355,7 +2335,7 @@
     {
      "title": "Financial and economic literacy",
      "url": "https://www.cnb.cz/en/about_cnb/financial-and-economic-literacy/",
-     "lang": "en",
+     "lang": "it",
      "en": "Financial and economic literacy",
      "es": "Financial and economic literacy"
     },
@@ -2398,7 +2378,7 @@
     {
      "title": "Financial Markets Tribunal",
      "url": "https://www.dfsa.ae/about-dfsa/our-structure/financial-markets-tribunal",
-     "lang": "ca",
+     "lang": "id",
      "en": "Financial Markets Tribunal",
      "es": "Financial Markets Tribunal"
     },
@@ -2412,7 +2392,7 @@
     {
      "title": "Regulatory Framework",
      "url": "https://www.dfsa.ae/what-we-do/aml-ctf-sanctions-compliance/regulatory-framework",
-     "lang": "pl",
+     "lang": "en",
      "en": "Regulatory Framework",
      "es": "Regulatory Framework"
     }
@@ -2422,9 +2402,45 @@
   {
    "institution": "Superintendencia del Mercado de Valores",
    "jurisdiction": "Dominican Republic",
-   "source": "https://simv.gob.do",
-   "items": [],
-   "error": "HTTPError 403 Client Error: Forbidden for url: https://simv.gob.do/noticias/"
+   "source": "https://simv.gob.do/noticias/",
+   "items": [
+    {
+     "title": "Publicaciones oficiales del mes de octubre",
+     "url": "https://simv.gob.do/publicaciones-oficiales-del-mes-de-octubre/",
+     "lang": "es",
+     "en": "Publicaciones oficiales del mes de octubre",
+     "es": "Publicaciones oficiales del mes de octubre"
+    },
+    {
+     "title": "SIMV fortalece capacidades para impulsar inversiones sostenibles con la aplicación de la Taxonomía Verde dominicana",
+     "url": "https://simv.gob.do/simv-fortalece-capacidades-para-impulsar-inversiones-sostenibles-con-la-aplicacion-de-la-taxonomia-verde-dominicana/",
+     "lang": "es",
+     "en": "SIMV fortalece capacidades para impulsar inversiones sostenibles con la aplicación de la Taxonomía Verde dominicana",
+     "es": "SIMV fortalece capacidades para impulsar inversiones sostenibles con la aplicación de la Taxonomía Verde dominicana"
+    },
+    {
+     "title": "Santiago recibe con éxito la experiencia educativa “Operación Inversión” de la SIMV",
+     "url": "https://simv.gob.do/santiago-recibe-con-exito-la-experiencia-educativa-operacion-inversion-de-la-simv/",
+     "lang": "es",
+     "en": "Santiago recibe con éxito la experiencia educativa “Operación Inversión” de la SIMV",
+     "es": "Santiago recibe con éxito la experiencia educativa “Operación Inversión” de la SIMV"
+    },
+    {
+     "title": "SIMV impulsa una protección integral del inversionista con seminario especializado y el lanzamiento de una iniciativa de publicidad responsable",
+     "url": "https://simv.gob.do/simv-impulsa-una-proteccion-integral-del-inversionista-con-seminario-especializado-y-el-lanzamiento-de-una-iniciativa-de-publicidad-responsable/",
+     "lang": "es",
+     "en": "SIMV impulsa una protección integral del inversionista con seminario especializado y el lanzamiento de una iniciativa de publicidad responsable",
+     "es": "SIMV impulsa una protección integral del inversionista con seminario especializado y el lanzamiento de una iniciativa de publicidad responsable"
+    },
+    {
+     "title": "Operación Inversión: SIMV lleva una innovadora experiencia de educación financiera a plazas comerciales del Distrito Nacional",
+     "url": "https://simv.gob.do/operacion-inversion-simv-lleva-una-innovadora-experiencia-de-educacion-financiera-a-plazas-comerciales-del-distrito-nacional/",
+     "lang": "es",
+     "en": "Operación Inversión: SIMV lleva una innovadora experiencia de educación financiera a plazas comerciales del Distrito Nacional",
+     "es": "Operación Inversión: SIMV lleva una innovadora experiencia de educación financiera a plazas comerciales del Distrito Nacional"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Superintendencia de Compañías, Valores y Seguros",
@@ -2633,11 +2649,18 @@
    "source": "https://nbg.gov.ge/en/media/news",
    "items": [
     {
-     "title": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability",
+     "title": "National Bank of Georgia and Visa Discuss Global and Regional Economic Trends",
+     "url": "https://nbg.gov.ge/en/media/news/national-bank-of-georgia-and-visa-discuss-global-and-regional-economic-trends",
+     "lang": "en",
+     "en": "National Bank of Georgia and Visa Discuss Global and Regional Economic Trends",
+     "es": "National Bank of Georgia and Visa Discuss Global and Regional Economic Trends"
+    },
+    {
+     "title": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability Nino Jeladze, Vice Governor of the National Bank of Georgia (NBG), participated in the official opening of the International Conference 02 November, 2026",
      "url": "https://nbg.gov.ge/en/media/news/nino-jeladze-the-national-bank-of-georgia-aims-to-align-innovation-with-financial-stabili",
      "lang": "en",
-     "en": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability",
-     "es": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability"
+     "en": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability Nino Jeladze, Vice Governor of the National Bank of Georgia (NBG), participated in the official opening of the International Conference 02 November, 2026",
+     "es": "Nino Jeladze: The National Bank of Georgia Aims to Align Innovation with Financial Stability Nino Jeladze, Vice Governor of the National Bank of Georgia (NBG), participated in the official opening of the International Conference 02 November, 2026"
     },
     {
      "title": "The National Bank of Georgia Reviews Financial Education Projects Implemented in Regional Schools The National Bank of Georgia (NBG) hosted an event dedicated to World Savings Day, during which it reviewed the results 01 November, 2026",
@@ -2659,13 +2682,6 @@
      "lang": "en",
      "en": "Ekaterine Mikabadze Participates in AIFC Connect: Tbilisi 2026 at the Tbilisi Finance Summit First Vice-Governor of the National Bank of Georgia (NBG), Ekaterine Mikabadze, participated in the \"AIFC Connect: Tbilisi 2026\" side event 30 October, 2026",
      "es": "Ekaterine Mikabadze Participates in AIFC Connect: Tbilisi 2026 at the Tbilisi Finance Summit First Vice-Governor of the National Bank of Georgia (NBG), Ekaterine Mikabadze, participated in the \"AIFC Connect: Tbilisi 2026\" side event 30 October, 2026"
-    },
-    {
-     "title": "Winners of the Fintech Hackathon Revealed at the Tbilisi Finance Summit Governor of the National Bank of Georgia (NBG), Natia Turnava, participated in the international Fintech Hackathon jointly organized by the 29 October, 2026",
-     "url": "https://nbg.gov.ge/en/media/news/winners-of-the-fintech-hackathon-revealed-at-the-tbilisi-finance-summit",
-     "lang": "en",
-     "en": "Winners of the Fintech Hackathon Revealed at the Tbilisi Finance Summit Governor of the National Bank of Georgia (NBG), Natia Turnava, participated in the international Fintech Hackathon jointly organized by the 29 October, 2026",
-     "es": "Winners of the Fintech Hackathon Revealed at the Tbilisi Finance Summit Governor of the National Bank of Georgia (NBG), Natia Turnava, participated in the international Fintech Hackathon jointly organized by the 29 October, 2026"
     }
    ],
    "error": ""
@@ -2683,6 +2699,20 @@
      "es": "Federal Financial Supervisory Authority"
     },
     {
+     "title": "CM Center Management GmbH : Bafin imposes administrative fines",
+     "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG/meldung_2026_11_05_cm_center_management_gmbh_en.html?nn=162006",
+     "lang": "en",
+     "en": "CM Center Management GmbH : Bafin imposes administrative fines",
+     "es": "CM Center Management GmbH : Bafin imposes administrative fines"
+    },
+    {
+     "title": "FCR Immobilien Aktiengesellschaft: Bafin imposes administrative fine",
+     "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG/meldung_2026_11_05_fcr_immobilien_ag_en.html?nn=162006",
+     "lang": "de",
+     "en": "FCR Immobilien Aktiengesellschaft: Bafin imposes administrative fine",
+     "es": "FCR Immobilien Aktiengesellschaft: Bafin imposes administrative fine"
+    },
+    {
      "title": "Publication of financial reports: Federal Office of Justice imposes disciplinary fine on Asset-Backed European Securitisation Transaction Nineteen UG",
      "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG/meldung_2026_11_02_asset_backed_european_securitisation_transaction_nineteen_ug_en.html?nn=162006",
      "lang": "en",
@@ -2695,20 +2725,6 @@
      "lang": "en",
      "en": "Publication of financial reports: Federal Office of Justice imposes disciplinary fine on IHS Nr. 2 GS GmbH",
      "es": "Publication of financial reports: Federal Office of Justice imposes disciplinary fine on IHS Nr. 2 GS GmbH"
-    },
-    {
-     "title": "Non-compliance with notification requirements: Bafin imposes administrative fines",
-     "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG_anonym/meldung_2026_10_22_geldbusse_en.html?nn=162006",
-     "lang": "en",
-     "en": "Non-compliance with notification requirements: Bafin imposes administrative fines",
-     "es": "Non-compliance with notification requirements: Bafin imposes administrative fines"
-    },
-    {
-     "title": "Nomura Holdings Inc. : Bafin imposes administrative fine",
-     "url": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG/meldung_2026_10_20_nomura_holdings_en.html?nn=162006",
-     "lang": "en",
-     "en": "Nomura Holdings Inc. : Bafin imposes administrative fine",
-     "es": "Nomura Holdings Inc. : Bafin imposes administrative fine"
     }
    ],
    "error": ""
@@ -2717,44 +2733,8 @@
    "institution": "Securities and Exchange Commission",
    "jurisdiction": "Ghana",
    "source": "https://sec.gov.gh/category/press-release",
-   "items": [
-    {
-     "title": "CALL FOR FEEDBACK ON THE DRAFT DATA REPORTING SERVICE PROVIDERS GUIDELINES 2026",
-     "url": "https://sec.gov.gh/call-for-feedback-on-the-draft-data-reporting-service-providers-guidelines-2026/",
-     "lang": "de",
-     "en": "CALL FOR FEEDBACK ON THE DRAFT DATA REPORTING SERVICE PROVIDERS GUIDELINES 2026",
-     "es": "CALL FOR FEEDBACK ON THE DRAFT DATA REPORTING SERVICE PROVIDERS GUIDELINES 2026"
-    },
-    {
-     "title": "GUIDELINES FOR LEGAL PRACTITIONERS/ LAWYERS PROVIDING LEGAL SERVICES IN THE CAPITAL MARKET",
-     "url": "https://sec.gov.gh/guidelines-for-legal-practitioners-lawyers-providing-legal-services-in-the-capital-market/",
-     "lang": "de",
-     "en": "GUIDELINES FOR LEGAL PRACTITIONERS/ LAWYERS PROVIDING LEGAL SERVICES IN THE CAPITAL MARKET",
-     "es": "GUIDELINES FOR LEGAL PRACTITIONERS/ LAWYERS PROVIDING LEGAL SERVICES IN THE CAPITAL MARKET"
-    },
-    {
-     "title": "SECURITIES INDUSTRY (FOREIGN FUNDS) GUIDELINES 2026",
-     "url": "https://sec.gov.gh/securities-industry-foreign-funds-guidelines-2026/",
-     "lang": "de",
-     "en": "SECURITIES INDUSTRY (FOREIGN FUNDS) GUIDELINES 2026",
-     "es": "SECURITIES INDUSTRY (FOREIGN FUNDS) GUIDELINES 2026"
-    },
-    {
-     "title": "CALL FOR FEEDBACK ON THE DRAFT GUIDELINES FOR INVESTMENT IN UNLISTED SECURITIES 2026",
-     "url": "https://sec.gov.gh/call-for-feedback-on-the-draft-guidelines-for-investment-in-unlisted-securities-2026/",
-     "lang": "en",
-     "en": "CALL FOR FEEDBACK ON THE DRAFT GUIDELINES FOR INVESTMENT IN UNLISTED SECURITIES 2026",
-     "es": "CALL FOR FEEDBACK ON THE DRAFT GUIDELINES FOR INVESTMENT IN UNLISTED SECURITIES 2026"
-    },
-    {
-     "title": "SECURITIES INDUSTRY (REGISTRAR) GUIDELINES 2026",
-     "url": "https://sec.gov.gh/securities-industry-registrar-guidelines-2026/",
-     "lang": "de",
-     "en": "SECURITIES INDUSTRY (REGISTRAR) GUIDELINES 2026",
-     "es": "SECURITIES INDUSTRY (REGISTRAR) GUIDELINES 2026"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ConnectionError HTTPSConnectionPool(host='sec.gov.gh', port=443): Max retries exceeded with url:"
   },
   {
    "institution": "Gibraltar Financial Services Commission",
@@ -2957,7 +2937,7 @@
     {
      "title": "Financial Stability Committee",
      "url": "https://cb.is/financial-stability/financial-stability-committee/",
-     "lang": "it",
+     "lang": "en",
      "en": "Financial Stability Committee",
      "es": "Financial Stability Committee"
     },
@@ -2977,6 +2957,27 @@
    "source": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=6&ssid=23&smid=0",
    "items": [
     {
+     "title": "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/commencement-of-sebi-settlement-of-administrative-and-civil-proceedings-regulations-2026_105680.html",
+     "lang": "en",
+     "en": "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026",
+     "es": "Commencement of SEBI (Settlement of Administrative and Civil Proceedings) Regulations, 2026"
+    },
+    {
+     "title": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
+     "lang": "en",
+     "en": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
+     "es": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework"
+    },
+    {
+     "title": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
+     "lang": "en",
+     "en": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+     "es": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)"
+    },
+    {
      "title": "Ease of Compliance for FPIs – Rationalisation of KYC Review Periodicity",
      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
      "lang": "en",
@@ -2989,27 +2990,6 @@
      "lang": "en",
      "en": "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations",
      "es": "SEBI signs MoU with BoE on cooperation and exchange of information related to SEBI-recognised Clearing Corporations"
-    },
-    {
-     "title": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
-     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
-     "lang": "en",
-     "en": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
-     "es": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups"
-    },
-    {
-     "title": "SEBI Teams win at IOSCO TechSprint 2026 on Investor Education in the Age of Artificial Intelligence (AI)",
-     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-teams-win-at-iosco-techsprint-2026-on-investor-education-in-the-age-of-artificial-intelligence-ai-_105266.html",
-     "lang": "en",
-     "en": "SEBI Teams win at IOSCO TechSprint 2026 on Investor Education in the Age of Artificial Intelligence (AI)",
-     "es": "SEBI Teams win at IOSCO TechSprint 2026 on Investor Education in the Age of Artificial Intelligence (AI)"
-    },
-    {
-     "title": "SEBI’s PolicyTwin Prototype Wins First Place at the C:>DIR Global ‘Agentic Regulator’ Hackathon",
-     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-s-policytwin-prototype-wins-first-place-at-the-c-dir-global-agentic-regulator-hackathon_105265.html",
-     "lang": "en",
-     "en": "SEBI’s PolicyTwin Prototype Wins First Place at the C:>DIR Global ‘Agentic Regulator’ Hackathon",
-     "es": "SEBI’s PolicyTwin Prototype Wins First Place at the C:>DIR Global ‘Agentic Regulator’ Hackathon"
     }
    ],
    "error": ""
@@ -3018,8 +2998,44 @@
    "institution": "Indonesia Financial Services Authority",
    "jurisdiction": "Indonesia",
    "source": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers",
-   "items": [],
-   "error": "ConnectTimeout HTTPSConnectionPool(host='ojk.go.id', port=443): Max retries exceeded with url: "
+   "items": [
+    {
+     "title": "Press Release: OJK Continues to Strengthen Capital Market Law Enforcement, Taking Strict Action Against Violations of Stock Manipulation, Misleading Information, and Misuse of Customer Accounts",
+     "url": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/Capital-Market-Law-Enforcement-Strict-Actions-Against-Violations.aspx",
+     "lang": "en",
+     "en": "Press Release: OJK Continues to Strengthen Capital Market Law Enforcement, Taking Strict Action Against Violations of Stock Manipulation, Misleading Information, and Misuse of Customer Accounts",
+     "es": "Press Release: OJK Continues to Strengthen Capital Market Law Enforcement, Taking Strict Action Against Violations of Stock Manipulation, Misleading Information, and Misuse of Customer Accounts"
+    },
+    {
+     "title": "Press Release: OJK Reinforces Capital Market Integrity and Stability through Three Strategic Actions",
+     "url": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/OJK-Reinforces-Capital-Market-Integrity-and-Stability-through-Three-Strategic-Actions.aspx",
+     "lang": "en",
+     "en": "Press Release: OJK Reinforces Capital Market Integrity and Stability through Three Strategic Actions",
+     "es": "Press Release: OJK Reinforces Capital Market Integrity and Stability through Three Strategic Actions"
+    },
+    {
+     "title": "Press Release: OJK Strengthens Financial Literacy Among Young People Through Education on Digital Financing Opportunities and Risks, OJK Mengajar 2026 at Indonesia Banking School",
+     "url": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/OJK-Mengajar-2026-at-Indonesia-Banking-School.aspx",
+     "lang": "en",
+     "en": "Press Release: OJK Strengthens Financial Literacy Among Young People Through Education on Digital Financing Opportunities and Risks, OJK Mengajar 2026 at Indonesia Banking School",
+     "es": "Press Release: OJK Strengthens Financial Literacy Among Young People Through Education on Digital Financing Opportunities and Risks, OJK Mengajar 2026 at Indonesia Banking School"
+    },
+    {
+     "title": "Press Release: OJK Strengthens Financial Literacy and Digital Skills Among People's School Students in Support of Government Priority Program",
+     "url": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/OJK-Strengthens-Financial-Literacy-and-Digital-Skills-Among-Peoples-School-Students-in-Support-of-Government-Priority-Prog.aspx",
+     "lang": "en",
+     "en": "Press Release: OJK Strengthens Financial Literacy and Digital Skills Among People's School Students in Support of Government Priority Program",
+     "es": "Press Release: OJK Strengthens Financial Literacy and Digital Skills Among People's School Students in Support of Government Priority Program"
+    },
+    {
+     "title": "Press Release: OJK Demonstrates Strong Commitment to Law Enforcement, Imposes Rp2.52 Trillion in Fines on Capital Market Violators",
+     "url": "https://ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Pages/OJK-Demonstrates-Strong-Commitment-to-Law-Enforcement-Imposes-Rp2.52-Trillion-in-Fines-on-Capital-Market-Violators.aspx",
+     "lang": "en",
+     "en": "Press Release: OJK Demonstrates Strong Commitment to Law Enforcement, Imposes Rp2.52 Trillion in Fines on Capital Market Violators",
+     "es": "Press Release: OJK Demonstrates Strong Commitment to Law Enforcement, Imposes Rp2.52 Trillion in Fines on Capital Market Violators"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Securities and Exchange Organization",
@@ -3034,6 +3050,27 @@
    "source": "https://www.centralbank.ie/news-media/press-releases",
    "items": [
     {
+     "title": "WayLite Finance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+     "url": "https://www.centralbank.ie/news/article/waylite-finance---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+     "lang": "en",
+     "en": "WayLite Finance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+     "es": "WayLite Finance - Central Bank of Ireland Issues Warning on Unauthorised Firm"
+    },
+    {
+     "title": "Eurizon Investment (CLONE) - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+     "url": "https://www.centralbank.ie/news/article/eurizon-investment-(clone)---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+     "lang": "en",
+     "en": "Eurizon Investment (CLONE) - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+     "es": "Eurizon Investment (CLONE) - Central Bank of Ireland Issues Warning on Unauthorised Firm"
+    },
+    {
+     "title": "Central Bank of Ireland finance strategy",
+     "url": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-finance-strategy-4-november-2026",
+     "lang": "en",
+     "en": "Central Bank of Ireland finance strategy",
+     "es": "Central Bank of Ireland finance strategy"
+    },
+    {
      "title": "Harnessing innovation benefits while managing risks – Central Bank of Ireland hosts fifth annual Financial Systems Conference",
      "url": "https://www.centralbank.ie/news/article/press-release-fifth-annual-financial-systems-conference-2-november-2026",
      "lang": "en",
@@ -3046,27 +3083,6 @@
      "lang": "en",
      "en": "Economic Transitions: Technology – Opening remarks from Governor Makhlouf at Financial System Conference",
      "es": "Economic Transitions: Technology – Opening remarks from Governor Makhlouf at Financial System Conference"
-    },
-    {
-     "title": "No change to the policy rate and reflections on the IMF Global Meetings",
-     "url": "https://www.centralbank.ie/news/article/blog-no-change-to-the-policy-rate-and-reflections-on-the-imf-global-meetings-30-october-2026",
-     "lang": "en",
-     "en": "No change to the policy rate and reflections on the IMF Global Meetings",
-     "es": "No change to the policy rate and reflections on the IMF Global Meetings"
-    },
-    {
-     "title": "Moving the Dial on Customer Experience — Opening Remarks by Director of Horizontal Supervision, Patricia Dunne",
-     "url": "https://www.centralbank.ie/news/article/speech-remarks-by-patricia-dunne-at-central-bank-seminar-23-october-2026",
-     "lang": "en",
-     "en": "Moving the Dial on Customer Experience — Opening Remarks by Director of Horizontal Supervision, Patricia Dunne",
-     "es": "Moving the Dial on Customer Experience — Opening Remarks by Director of Horizontal Supervision, Patricia Dunne"
-    },
-    {
-     "title": "The era of on-chain finance? Opening remarks by Mícheál O'Keeffe, Director of Policy and International at Blockchain Ireland Summit 2026",
-     "url": "https://www.centralbank.ie/news/article/speech-micheal-o'keeffe-director-of-policy-and-international-blockchain-ireland-summit-22-october-2026",
-     "lang": "en",
-     "en": "The era of on-chain finance? Opening remarks by Mícheál O'Keeffe, Director of Policy and International at Blockchain Ireland Summit 2026",
-     "es": "The era of on-chain finance? Opening remarks by Mícheál O'Keeffe, Director of Policy and International at Blockchain Ireland Summit 2026"
     }
    ],
    "error": ""
@@ -3077,6 +3093,27 @@
    "source": "https://www.iomfsa.im/fsa-news",
    "items": [
     {
+     "title": "Sanctions Update – 04th November 2026",
+     "url": "https://www.iomfsa.im/fsa-news/2026/nov/sanctions-update-04th-november-2026/",
+     "lang": "en",
+     "en": "Sanctions Update – 04th November 2026",
+     "es": "Sanctions Update – 04th November 2026"
+    },
+    {
+     "title": "Deregistration of Designated Business – R. E. Callin",
+     "url": "https://www.iomfsa.im/fsa-news/2026/nov/deregistration-of-designated-business-r-e-callin/",
+     "lang": "en",
+     "en": "Deregistration of Designated Business – R. E. Callin",
+     "es": "Deregistration of Designated Business – R. E. Callin"
+    },
+    {
+     "title": "AML/CFT Country Lists updated following October 2026 FATF Plenary",
+     "url": "https://www.iomfsa.im/fsa-news/2026/nov/amlcft-country-lists-updated-following-october-2026-fatf-plenary/",
+     "lang": "en",
+     "en": "AML/CFT Country Lists updated following October 2026 FATF Plenary",
+     "es": "AML/CFT Country Lists updated following October 2026 FATF Plenary"
+    },
+    {
      "title": "Deregistration of Designated Business – Corlett & Co Limited",
      "url": "https://www.iomfsa.im/fsa-news/2026/nov/deregistration-of-designated-business-corlett-co-limited/",
      "lang": "en",
@@ -3084,32 +3121,11 @@
      "es": "Deregistration of Designated Business – Corlett & Co Limited"
     },
     {
-     "title": "Sanctions Update – 30th October 2026",
-     "url": "https://www.iomfsa.im/fsa-news/2026/oct/sanctions-update-30th-october-2026/",
+     "title": "Deregistration of Designated Business – F C Accountancy Services Limited",
+     "url": "https://www.iomfsa.im/fsa-news/2026/nov/deregistration-of-designated-business-f-c-accountancy-services-limited/",
      "lang": "en",
-     "en": "Sanctions Update – 30th October 2026",
-     "es": "Sanctions Update – 30th October 2026"
-    },
-    {
-     "title": "Sanctions Update – 29th October 2026",
-     "url": "https://www.iomfsa.im/fsa-news/2026/oct/sanctions-update-29th-october-2026/",
-     "lang": "en",
-     "en": "Sanctions Update – 29th October 2026",
-     "es": "Sanctions Update – 29th October 2026"
-    },
-    {
-     "title": "New licenceholder - LML Limited t/a ascend",
-     "url": "https://www.iomfsa.im/fsa-news/2026/oct/new-licenceholder-lml-limited-ta-ascend/",
-     "lang": "en",
-     "en": "New licenceholder - LML Limited t/a ascend",
-     "es": "New licenceholder - LML Limited t/a ascend"
-    },
-    {
-     "title": "Sanctions Update – 27th October 2026",
-     "url": "https://www.iomfsa.im/fsa-news/2026/oct/sanctions-update-27th-october-2026/",
-     "lang": "en",
-     "en": "Sanctions Update – 27th October 2026",
-     "es": "Sanctions Update – 27th October 2026"
+     "en": "Deregistration of Designated Business – F C Accountancy Services Limited",
+     "es": "Deregistration of Designated Business – F C Accountancy Services Limited"
     }
    ],
    "error": ""
@@ -3229,7 +3245,7 @@
     {
      "title": "Hurricane Melissa Claims FAQ",
      "url": "https://www.fscjamaica.org/hurricane-melissa-claims-faq/",
-     "lang": "ca",
+     "lang": "en",
      "en": "Hurricane Melissa Claims FAQ",
      "es": "Hurricane Melissa Claims FAQ"
     },
@@ -3256,6 +3272,20 @@
      "es": "Machine translated English of Japanese Site"
     },
     {
+     "title": "Seventh Meeting of the Japan-EU Joint Financial Regulatory Forum (November 6, 2026)",
+     "url": "https://www.fsa.go.jp/en/news/2026/20261106/20261106.html",
+     "lang": "en",
+     "en": "Seventh Meeting of the Japan-EU Joint Financial Regulatory Forum (November 6, 2026)",
+     "es": "Seventh Meeting of the Japan-EU Joint Financial Regulatory Forum (November 6, 2026)"
+    },
+    {
+     "title": "Financial Services Agency of Japan and Climate Data Steering Committee Launch Jurisdictional Data Partnership for the Climate Data Utility (November 6, 2026)",
+     "url": "https://www.fsa.go.jp/en/news/2026/20261106.html",
+     "lang": "en",
+     "en": "Financial Services Agency of Japan and Climate Data Steering Committee Launch Jurisdictional Data Partnership for the Climate Data Utility (November 6, 2026)",
+     "es": "Financial Services Agency of Japan and Climate Data Steering Committee Launch Jurisdictional Data Partnership for the Climate Data Utility (November 6, 2026)"
+    },
+    {
      "title": "Comment letter on the European Sustainability Reporting Standards (ESRS) for certain non-EU Undertakings (ESRS-40a) Exposure Draft (October 30, 2026)",
      "url": "https://www.fsa.go.jp/en/news/2026/20261030-3.html",
      "lang": "en",
@@ -3268,20 +3298,6 @@
      "lang": "en",
      "en": "FSA organizes Japan Global Capital Markets Conference in Tokyo (October 29, 2026)",
      "es": "FSA organizes Japan Global Capital Markets Conference in Tokyo (October 29, 2026)"
-    },
-    {
-     "title": "Asia GX Consortium High-Level Meeting 2026 (October 23, 2026)",
-     "url": "https://www.fsa.go.jp/en/news/2026/20261023/20261023.html",
-     "lang": "en",
-     "en": "Asia GX Consortium High-Level Meeting 2026 (October 23, 2026)",
-     "es": "Asia GX Consortium High-Level Meeting 2026 (October 23, 2026)"
-    },
-    {
-     "title": "FSA, SEC Hold Autumn Financial Regulatory Dialogue (October 20, 2026)",
-     "url": "https://www.fsa.go.jp/en/news/2026/20261020.html",
-     "lang": "en",
-     "en": "FSA, SEC Hold Autumn Financial Regulatory Dialogue (October 20, 2026)",
-     "es": "FSA, SEC Hold Autumn Financial Regulatory Dialogue (October 20, 2026)"
     }
    ],
    "error": ""
@@ -3315,7 +3331,7 @@
     {
      "title": "Environmental Issues",
      "url": "https://www.maff.go.jp/e/policies/env/index.html",
-     "lang": "fr",
+     "lang": "ca",
      "en": "Environmental Issues",
      "es": "Environmental Issues"
     },
@@ -3419,44 +3435,8 @@
    "institution": "Jordan Securities Commission",
    "jurisdiction": "Jordan",
    "source": "https://www.jsc.gov.jo/News/en",
-   "items": [
-    {
-     "title": "هيئة الأوراق المالية تطور منظومة امتحان التشريعات المالية وتعتمد نهجاً جديداً لتعزيز الكفاءة ...",
-     "url": "https://www.jsc.gov.jo/News/ar/12734",
-     "lang": "ar",
-     "en": "هيئة الأوراق المالية تطور منظومة امتحان التشريعات المالية وتعتمد نهجاً جديداً لتعزيز الكفاءة ...",
-     "es": "هيئة الأوراق المالية تطور منظومة امتحان التشريعات المالية وتعتمد نهجاً جديداً لتعزيز الكفاءة ..."
-    },
-    {
-     "title": "هيئة الأوراق المالية وجمعية البنوك في الأردن توقّعان مذكرة تفاهم لتعزيز التعاون والتنسيق ...",
-     "url": "https://www.jsc.gov.jo/News/ar/12720",
-     "lang": "ar",
-     "en": "هيئة الأوراق المالية وجمعية البنوك في الأردن توقّعان مذكرة تفاهم لتعزيز التعاون والتنسيق ...",
-     "es": "هيئة الأوراق المالية وجمعية البنوك في الأردن توقّعان مذكرة تفاهم لتعزيز التعاون والتنسيق ..."
-    },
-    {
-     "title": "هيئة الأوراق المالية الأردنية تطلق \"مدونة الممارسات البيئية والاجتماعية والحوكمة (ESG)\" لتعزيز ...",
-     "url": "https://www.jsc.gov.jo/News/ar/12716",
-     "lang": "ar",
-     "en": "هيئة الأوراق المالية الأردنية تطلق \"مدونة الممارسات البيئية والاجتماعية والحوكمة (ESG)\" لتعزيز ...",
-     "es": "هيئة الأوراق المالية الأردنية تطلق \"مدونة الممارسات البيئية والاجتماعية والحوكمة (ESG)\" لتعزيز ..."
-    },
-    {
-     "title": "التقرير السنوي لسنة 2024",
-     "url": "https://www.jsc.gov.jo/News/ar/12452",
-     "lang": "ar",
-     "en": "التقرير السنوي لسنة 2024",
-     "es": "التقرير السنوي لسنة 2024"
-    },
-    {
-     "title": "تعميم عقد امتحان التشريعات المالية",
-     "url": "https://www.jsc.gov.jo/News/ar/12722",
-     "lang": "ar",
-     "en": "تعميم عقد امتحان التشريعات المالية",
-     "es": "تعميم عقد امتحان التشريعات المالية"
-    }
-   ],
-   "error": ""
+   "items": [],
+   "error": "ConnectTimeout HTTPSConnectionPool(host='www.jsc.gov.jo', port=443): Max retries exceeded with "
   },
   {
    "institution": "Agency of the Republic of Kazakhstan for Regulation and Development of Financial Market",
@@ -3471,6 +3451,20 @@
      "es": "The Agency of the Republic of Kazakhstan for Regulation and Development of the Financial Market"
     },
     {
+     "title": "Top executive in the second-tier bank is cleared by the Agency",
+     "url": "https://www.gov.kz/org/ardfm/press/news/details/1324487",
+     "lang": "en",
+     "en": "Top executive in the second-tier bank is cleared by the Agency",
+     "es": "Top executive in the second-tier bank is cleared by the Agency"
+    },
+    {
+     "title": "The Agency has approved the executives in the securities market",
+     "url": "https://www.gov.kz/org/ardfm/press/news/details/1323031",
+     "lang": "en",
+     "en": "The Agency has approved the executives in the securities market",
+     "es": "The Agency has approved the executives in the securities market"
+    },
+    {
      "title": "The following top executive of a second-tier bank has been approved by the Agency:",
      "url": "https://www.gov.kz/org/ardfm/press/news/details/1320711",
      "lang": "en",
@@ -3483,20 +3477,6 @@
      "lang": "en",
      "en": "The Agency has approved a senior executives of a second-tier banks",
      "es": "The Agency has approved a senior executives of a second-tier banks"
-    },
-    {
-     "title": "The Agency has approved a senior executive of a second-tier banks",
-     "url": "https://www.gov.kz/org/ardfm/press/news/details/1313821",
-     "lang": "en",
-     "en": "The Agency has approved a senior executive of a second-tier banks",
-     "es": "The Agency has approved a senior executive of a second-tier banks"
-    },
-    {
-     "title": "The Agency refused to approve the executive in the securities market",
-     "url": "https://www.gov.kz/org/ardfm/press/news/details/1313714",
-     "lang": "en",
-     "en": "The Agency refused to approve the executive in the securities market",
-     "es": "The Agency refused to approve the executive in the securities market"
     }
    ],
    "error": ""
@@ -3506,7 +3486,7 @@
    "jurisdiction": "Kenya",
    "source": "https://www.cma.or.ke/press-releases/",
    "items": [],
-   "error": "HTTPError 502 Server Error: Bad Gateway for url: https://www.cma.or.ke/press-releases/"
+   "error": "HTTPError 504 Server Error: Gateway Time-out for url: https://www.cma.or.ke/press-releases"
   },
   {
    "institution": "Financial Services Commission/Financial Supervisory Service",
@@ -3643,6 +3623,13 @@
    "source": "https://www.cssf.lu/en/publication-data/",
    "items": [
     {
+     "title": "Warning concerning fraudulent activities by persons misusing the name of Finare Asset Management S.A.",
+     "url": "https://www.cssf.lu/en/2026/11/warning-concerning-fraudulent-activities-by-persons-misusing-the-name-of-finare-asset-management-s-a/",
+     "lang": "en",
+     "en": "Warning concerning fraudulent activities by persons misusing the name of Finare Asset Management S.A.",
+     "es": "Warning concerning fraudulent activities by persons misusing the name of Finare Asset Management S.A."
+    },
+    {
      "title": "List of notifications received",
      "url": "https://www.cssf.lu/en/Document/list-of-notifications-received/",
      "lang": "en",
@@ -3650,32 +3637,25 @@
      "es": "List of notifications received"
     },
     {
-     "title": "Answer to the public consultation – Amundi Asset Management",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-amundi-asset-management/",
+     "title": "Warning concerning the website www.terralia-gci.com",
+     "url": "https://www.cssf.lu/en/2026/11/warning-concerning-the-website-www-terralia-gci-com/",
      "lang": "en",
-     "en": "Answer to the public consultation – Amundi Asset Management",
-     "es": "Answer to the public consultation – Amundi Asset Management"
+     "en": "Warning concerning the website www.terralia-gci.com",
+     "es": "Warning concerning the website www.terralia-gci.com"
     },
     {
-     "title": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-bnp-paribas-asset-management-luxembourg/",
+     "title": "CSSF approvals of prospectuses",
+     "url": "https://www.cssf.lu/en/2026/11/cssf-approvals/",
      "lang": "en",
-     "en": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg",
-     "es": "Answer to the public consultation – BNP Paribas Asset Management Luxembourg"
+     "en": "CSSF approvals of prospectuses",
+     "es": "CSSF approvals of prospectuses"
     },
     {
-     "title": "Answer to the public consultation – Cadelux S.A.",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-cadelux-s-a/",
+     "title": "Notifications sent by the CSSF to the competent authorities of other EEA Member States",
+     "url": "https://www.cssf.lu/en/2026/11/notifications-sent-by-the-cssf-to-the-competent-authorities-of-other-eea-member-states/",
      "lang": "en",
-     "en": "Answer to the public consultation – Cadelux S.A.",
-     "es": "Answer to the public consultation – Cadelux S.A."
-    },
-    {
-     "title": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)",
-     "url": "https://www.cssf.lu/en/Document/answer-to-the-public-consultation-european-fund-and-asset-management-association-efama/",
-     "lang": "en",
-     "en": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)",
-     "es": "Answer to the public consultation – European Fund and Asset Management Association (EFAMA)"
+     "en": "Notifications sent by the CSSF to the competent authorities of other EEA Member States",
+     "es": "Notifications sent by the CSSF to the competent authorities of other EEA Member States"
     }
    ],
    "error": ""
@@ -3973,39 +3953,39 @@
    "source": "https://www.ammc.ma/en/actualites",
    "items": [
     {
-     "title": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN",
-     "url": "https://www.ammc.ma/en/actualites/laprophan-ammc-approves-prospectus-related-initial-public-offering-laprophan",
+     "title": "AMMC approval of the prospectus related to the complete merger of Label’Vie by Retail Holding",
+     "url": "https://www.ammc.ma/en/actualites/ammc-approval-prospectus-related-complete-merger-labelvie-retail-holding",
      "lang": "en",
-     "en": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN",
-     "es": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN"
+     "en": "AMMC approval of the prospectus related to the complete merger of Label’Vie by Retail Holding",
+     "es": "AMMC approval of the prospectus related to the complete merger of Label’Vie by Retail Holding"
     },
     {
      "title": "Download the prospectus Download the press release",
-     "url": "https://www.ammc.ma/en/actualites/laprophan-ammc-approves-prospectus-related-initial-public-offering-laprophan",
+     "url": "https://www.ammc.ma/en/actualites/ammc-approval-prospectus-related-complete-merger-labelvie-retail-holding",
      "lang": "en",
      "en": "Download the prospectus Download the press release",
      "es": "Download the prospectus Download the press release"
     },
     {
-     "title": "CMT - The AMMC approves the prospectus related to the Mandatory Takeover Bid on CMT shares launched by AYRAD Group Limited, OSEAD Fund, AYRAD Maroc and the CIMR",
-     "url": "https://www.ammc.ma/en/actualites/cmt-ammc-approves-prospectus-related-mandatory-takeover-bid-cmt-shares-launched-ayrad",
+     "title": "AXA - The AMMC approves the definitive prospectus related to a capital increase, reserved exclusively to the group employees",
+     "url": "https://www.ammc.ma/en/actualites/axa-ammc-approves-definitive-prospectus-related-capital-increase-reserved-exclusively-3",
      "lang": "en",
-     "en": "CMT - The AMMC approves the prospectus related to the Mandatory Takeover Bid on CMT shares launched by AYRAD Group Limited, OSEAD Fund, AYRAD Maroc and the CIMR",
-     "es": "CMT - The AMMC approves the prospectus related to the Mandatory Takeover Bid on CMT shares launched by AYRAD Group Limited, OSEAD Fund, AYRAD Maroc and the CIMR"
+     "en": "AXA - The AMMC approves the definitive prospectus related to a capital increase, reserved exclusively to the group employees",
+     "es": "AXA - The AMMC approves the definitive prospectus related to a capital increase, reserved exclusively to the group employees"
     },
     {
-     "title": "Download the prospectusDownload the press release",
-     "url": "https://www.ammc.ma/en/actualites/cmt-ammc-approves-prospectus-related-mandatory-takeover-bid-cmt-shares-launched-ayrad",
+     "title": "Download the definitive prospectus Download the press release",
+     "url": "https://www.ammc.ma/en/actualites/axa-ammc-approves-definitive-prospectus-related-capital-increase-reserved-exclusively-3",
      "lang": "en",
-     "en": "Download the prospectusDownload the press release",
-     "es": "Download the prospectusDownload the press release"
+     "en": "Download the definitive prospectus Download the press release",
+     "es": "Download the definitive prospectus Download the press release"
     },
     {
-     "title": "NGE - The AMMC approves the prospectus regarding « NGE » shares offering to the group’s employees",
-     "url": "https://www.ammc.ma/en/actualites/nge-ammc-approves-prospectus-regarding-nge-shares-offering-groups-employees-0",
+     "title": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN",
+     "url": "https://www.ammc.ma/en/actualites/laprophan-ammc-approves-prospectus-related-initial-public-offering-laprophan",
      "lang": "en",
-     "en": "NGE - The AMMC approves the prospectus regarding « NGE » shares offering to the group’s employees",
-     "es": "NGE - The AMMC approves the prospectus regarding « NGE » shares offering to the group’s employees"
+     "en": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN",
+     "es": "LAPROPHAN - The AMMC approves the prospectus related to the initial public offering of LAPROPHAN"
     }
    ],
    "error": ""
@@ -4037,6 +4017,13 @@
      "es": "Subscribe to RSS Feed"
     },
     {
+     "title": "Submission of Cybersecurity Risk Assessment Reports Nov. 2, 2026",
+     "url": "https://sec.gov.ng/for-investors/keep-track-of-circulars/submission-of-cybersecurity-risk-assessment-reports/",
+     "lang": "en",
+     "en": "Submission of Cybersecurity Risk Assessment Reports Nov. 2, 2026",
+     "es": "Submission of Cybersecurity Risk Assessment Reports Nov. 2, 2026"
+    },
+    {
      "title": "Designation Of DCB Finance Limited By The Nigeria Sanctions Committee And The United Nations Security Council Oct. 27, 2026",
      "url": "https://sec.gov.ng/for-investors/keep-track-of-circulars/designation-of-dcb-finance-limited-by-the-nigeria-sanctions-committee-and-the-united-nations-security-council/",
      "lang": "en",
@@ -4049,13 +4036,6 @@
      "lang": "en",
      "en": "Designation Of Paek Chang - Ho And Ra Ky’ong-Su By The Nigeria Sanctions Committee And Under The Authority Of The United Nations Security Council Resolution (UNSCRs) Oct. 27, 2026",
      "es": "Designation Of Paek Chang - Ho And Ra Ky’ong-Su By The Nigeria Sanctions Committee And Under The Authority Of The United Nations Security Council Resolution (UNSCRs) Oct. 27, 2026"
-    },
-    {
-     "title": "Designation Of Individuals And Entity By The Nigeria Sanctions Committee (NSC) Oct. 27, 2026",
-     "url": "https://sec.gov.ng/for-investors/keep-track-of-circulars/designation-of-individuals-and-entity-by-the-nigeria-sanctions-committee-nsc/",
-     "lang": "en",
-     "en": "Designation Of Individuals And Entity By The Nigeria Sanctions Committee (NSC) Oct. 27, 2026",
-     "es": "Designation Of Individuals And Entity By The Nigeria Sanctions Committee (NSC) Oct. 27, 2026"
     }
    ],
    "error": ""
@@ -4139,7 +4119,7 @@
     {
      "title": "Risk Outlook – June 2026",
      "url": "https://www.finanstilsynet.no/en/news-archive/news/2026/risk-outlook--june-2026/",
-     "lang": "no",
+     "lang": "et",
      "en": "Risk Outlook – June 2026",
      "es": "Risk Outlook – June 2026"
     }
@@ -4195,6 +4175,13 @@
    "source": "https://www.osc.ca/en/news-events/news-releases",
    "items": [
     {
+     "title": "OSC investor warnings and alerts for October 14, 2026 – November 3, 2026",
+     "url": "https://www.osc.ca/en/news-events/news/osc-investor-warnings-and-alerts-october-14-2026-november-3-2026",
+     "lang": "en",
+     "en": "OSC investor warnings and alerts for October 14, 2026 – November 3, 2026",
+     "es": "OSC investor warnings and alerts for October 14, 2026 – November 3, 2026"
+    },
+    {
      "title": "OSC invites applications for Securities Advisory Committee",
      "url": "https://www.osc.ca/en/news-events/news/osc-invites-applications-securities-advisory-committee",
      "lang": "en",
@@ -4221,13 +4208,6 @@
      "lang": "en",
      "en": "OSC announces new Investor Advisory Panel members and Chair",
      "es": "OSC announces new Investor Advisory Panel members and Chair"
-    },
-    {
-     "title": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution",
-     "url": "https://www.osc.ca/en/news-events/news/canadian-securities-regulators-publish-final-amendments-prohibiting-chargebacks-investment-fund",
-     "lang": "en",
-     "en": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution",
-     "es": "Canadian securities regulators publish final amendments prohibiting chargebacks in investment fund distribution"
     }
    ],
    "error": ""
@@ -4236,14 +4216,71 @@
    "institution": "Securities and Exchange Commission",
    "jurisdiction": "Pakistan",
    "source": "https://www.secp.gov.pk/media-center/press-releases/",
-   "items": [],
-   "error": "HTTPError 403 Client Error: Forbidden for url: https://www.secp.gov.pk/media-center/press-"
+   "items": [
+    {
+     "title": "FAQs on Company Regulation 2024",
+     "url": "https://www.secp.gov.pk/company-formation/faqs-on-company-regulation-2024/",
+     "lang": "en",
+     "en": "FAQs on Company Regulation 2024",
+     "es": "FAQs on Company Regulation 2024"
+    },
+    {
+     "title": "Company Incorporation Video",
+     "url": "https://www.secp.gov.pk/company-formation/company-incorporation-video/",
+     "lang": "en",
+     "en": "Company Incorporation Video",
+     "es": "Company Incorporation Video"
+    },
+    {
+     "title": "Stepwise Procedure for Online Company Incorporation",
+     "url": "https://www.secp.gov.pk/company-formation/stepwise-procedure-for-online-company-incorporation/",
+     "lang": "en",
+     "en": "Stepwise Procedure for Online Company Incorporation",
+     "es": "Stepwise Procedure for Online Company Incorporation"
+    },
+    {
+     "title": "FAQ's Name Reservation",
+     "url": "https://www.secp.gov.pk/company-formation/name-availability-faqs/",
+     "lang": "en",
+     "en": "FAQ's Name Reservation",
+     "es": "FAQ's Name Reservation"
+    },
+    {
+     "title": "Forms/Applications/ Schedule of Filing of Returns",
+     "url": "https://www.secp.gov.pk/company-formation/formsapplications-schedule-of-filling-of-returns/",
+     "lang": "en",
+     "en": "Forms/Applications/ Schedule of Filing of Returns",
+     "es": "Forms/Applications/ Schedule of Filing of Returns"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Palestine Capital Market Authority",
    "jurisdiction": "Palestine",
    "source": "https://www.pcma.ps",
    "items": [
+    {
+     "title": "هيئة سوق رأس المال تستعرض التأمين الزراعي المبني على المؤشر لمجموعات عمل الشمول المالي",
+     "url": "https://www.pcma.ps/%d9%87%d9%8a%d8%a6%d8%a9-%d8%b3%d9%88%d9%82-%d8%b1%d8%a3%d8%b3-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%b2%d8%b1/",
+     "lang": "ar",
+     "en": "هيئة سوق رأس المال تستعرض التأمين الزراعي المبني على المؤشر لمجموعات عمل الشمول المالي",
+     "es": "هيئة سوق رأس المال تستعرض التأمين الزراعي المبني على المؤشر لمجموعات عمل الشمول المالي"
+    },
+    {
+     "title": "هيئة سوق رأس المال وسلطة الأراضي تعقدان لقاءً تعريفياً وتدريبياً حول التأجير التمويلي العقاري",
+     "url": "https://www.pcma.ps/%d9%87%d9%8a%d8%a6%d8%a9-%d8%b3%d9%88%d9%82-%d8%b1%d8%a3%d8%b3-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d9%88%d8%b3%d9%84%d8%b7%d8%a9-%d8%a7%d9%84%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%aa%d8%b9%d9%82%d8%af%d8%a7/",
+     "lang": "ar",
+     "en": "هيئة سوق رأس المال وسلطة الأراضي تعقدان لقاءً تعريفياً وتدريبياً حول التأجير التمويلي العقاري",
+     "es": "هيئة سوق رأس المال وسلطة الأراضي تعقدان لقاءً تعريفياً وتدريبياً حول التأجير التمويلي العقاري"
+    },
+    {
+     "title": "اعلان عن وظيفة شاغرة",
+     "url": "https://www.pcma.ps/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d9%88%d8%b8%d9%8a%d9%81%d8%a9-%d8%b4%d8%a7%d8%ba%d8%b1%d8%a9-6/",
+     "lang": "ar",
+     "en": "اعلان عن وظيفة شاغرة",
+     "es": "اعلان عن وظيفة شاغرة"
+    },
     {
      "title": "هيئة سوق رأس المال تشارك في فعاليات أسبوع المستثمر العالمي 2026",
      "url": "https://www.pcma.ps/%d9%87%d9%8a%d8%a6%d8%a9-%d8%b3%d9%88%d9%82-%d8%b1%d8%a3%d8%b3-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%aa%d8%b4%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d8%a3%d8%b3%d8%a8/",
@@ -4257,27 +4294,6 @@
      "lang": "ar",
      "en": "قامت شركة تمكين الفلسطينية للتأمين بمخالفة المادتين (3) و(8) من قرار هيئة سوق رأس المال رقم (1) لسنة 2025 بشأن تحديد متطلبات تعيين الإدارة التنفيذية العليا والموظفين الرئيسيين في شركات التأمين… وتم توجيه إنذار للشركة.",
      "es": "قامت شركة تمكين الفلسطينية للتأمين بمخالفة المادتين (3) و(8) من قرار هيئة سوق رأس المال رقم (1) لسنة 2025 بشأن تحديد متطلبات تعيين الإدارة التنفيذية العليا والموظفين الرئيسيين في شركات التأمين… وتم توجيه إنذار للشركة."
-    },
-    {
-     "title": "تمديد اعلان طرح عطاء رقم (T-01/2027) بشأن تقديم خدمات الامن والحراسة لمبنى الهيئة والممتلكات",
-     "url": "https://www.pcma.ps/%d8%aa%d9%85%d8%af%d9%8a%d8%af-%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b7%d8%b1%d8%ad-%d8%b9%d8%b7%d8%a7%d8%a1-%d8%b1%d9%82%d9%85-t-01-2027-%d8%a8%d8%b4%d8%a3%d9%86-%d8%aa%d9%82%d8%af%d9%8a%d9%85-%d8%ae/",
-     "lang": "ar",
-     "en": "تمديد اعلان طرح عطاء رقم (T-01/2027) بشأن تقديم خدمات الامن والحراسة لمبنى الهيئة والممتلكات",
-     "es": "تمديد اعلان طرح عطاء رقم (T-01/2027) بشأن تقديم خدمات الامن والحراسة لمبنى الهيئة والممتلكات"
-    },
-    {
-     "title": "هيئة سوق راس المال تعقد لقاء يجمع شركات التأجير التمويلي ومشروع الشمول المالي الريفي",
-     "url": "https://www.pcma.ps/%d9%87%d9%8a%d8%a6%d8%a9-%d8%b3%d9%88%d9%82-%d8%b1%d8%a7%d8%b3-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%aa%d8%b9%d9%82%d8%af-%d9%84%d9%82%d8%a7%d8%a1-%d9%8a%d8%ac%d9%85%d8%b9-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa/",
-     "lang": "ar",
-     "en": "هيئة سوق راس المال تعقد لقاء يجمع شركات التأجير التمويلي ومشروع الشمول المالي الريفي",
-     "es": "هيئة سوق راس المال تعقد لقاء يجمع شركات التأجير التمويلي ومشروع الشمول المالي الريفي"
-    },
-    {
-     "title": "هيئة سوق رأس المال تخصص الرقم 533# لاستقبال شكاوى واستفسارات الفوركس",
-     "url": "https://www.pcma.ps/%d9%87%d9%8a%d8%a6%d8%a9-%d8%b3%d9%88%d9%82-%d8%b1%d8%a3%d8%b3-%d8%a7%d9%84%d9%85%d8%a7%d9%84-%d8%aa%d8%ae%d8%b5%d8%b5-%d8%a7%d9%84%d8%b1%d9%82%d9%85-533-%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7/",
-     "lang": "ar",
-     "en": "هيئة سوق رأس المال تخصص الرقم 533# لاستقبال شكاوى واستفسارات الفوركس",
-     "es": "هيئة سوق رأس المال تخصص الرقم 533# لاستقبال شكاوى واستفسارات الفوركس"
     }
    ],
    "error": ""
@@ -4418,7 +4434,7 @@
     {
      "title": "9 OCT Banking sector data - August 2026",
      "url": "https://www.knf.gov.pl/en/news?articleId=98732&p_id=19&page=1&perPage=10",
-     "lang": "en",
+     "lang": "id",
      "en": "9 OCT Banking sector data - August 2026",
      "es": "9 OCT Banking sector data - August 2026"
     },
@@ -4445,18 +4461,18 @@
    "source": "https://www.qfma.org.qa",
    "items": [
     {
+     "title": "هيئة قطر للأسواق المالية تكرّم موظفيها من أصحاب الخدمة الطويلة",
+     "url": "https://www.qfma.org.qa/Arabic/MediaCenter/News/Pages/NewsDetails.aspx?itemid=2250",
+     "lang": "ar",
+     "en": "هيئة قطر للأسواق المالية تكرّم موظفيها من أصحاب الخدمة الطويلة",
+     "es": "هيئة قطر للأسواق المالية تكرّم موظفيها من أصحاب الخدمة الطويلة"
+    },
+    {
      "title": "هيئة قطر للأسواق المالية تستعرض تجربتها في التكنولوجيا المالية خلال منتدى الأرجنتين للتكنولوجيا الما...",
      "url": "https://www.qfma.org.qa/Arabic/MediaCenter/News/Pages/NewsDetails.aspx?itemid=2249",
      "lang": "ar",
      "en": "هيئة قطر للأسواق المالية تستعرض تجربتها في التكنولوجيا المالية خلال منتدى الأرجنتين للتكنولوجيا الما...",
      "es": "هيئة قطر للأسواق المالية تستعرض تجربتها في التكنولوجيا المالية خلال منتدى الأرجنتين للتكنولوجيا الما..."
-    },
-    {
-     "title": "هيئة قطر للأسواق المالية وإيداع تبحثان مع ناسداك مستقبل أسواق رأس المال وتعزيز ثقة المستثمرين",
-     "url": "https://www.qfma.org.qa/Arabic/MediaCenter/News/Pages/NewsDetails.aspx?itemid=2247",
-     "lang": "ar",
-     "en": "هيئة قطر للأسواق المالية وإيداع تبحثان مع ناسداك مستقبل أسواق رأس المال وتعزيز ثقة المستثمرين",
-     "es": "هيئة قطر للأسواق المالية وإيداع تبحثان مع ناسداك مستقبل أسواق رأس المال وتعزيز ثقة المستثمرين"
     },
     {
      "title": "محكمة التمييز تؤيد قرار هيئة قطر للأسواق المالية بفرض جزاء مالي وتأديبي ضد أحد المتعاملين في السوق",
@@ -4733,11 +4749,25 @@
    "source": "https://www.cnmv.es/Portal/AlDia/Comunicaciones-Publicas",
    "items": [
     {
-     "title": "La CNMV autoriza Bit2MeSTX, un Sistema de Negociación y Liquidación (SNL) basado en Tecnología de Registros Distribuidos (TRD)",
-     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7b6a308a4b-a639-426b-b5cb-1d56ad42c5d5%7d",
+     "title": "La CNMV destaca la fortaleza de los mercados financieros en un entorno de incertidumbre y subidas de tipos de interés",
+     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7b42a6000b-dcaf-432e-8dd0-2992480f7a72%7d",
      "lang": "es",
-     "en": "La CNMV autoriza Bit2MeSTX, un Sistema de Negociación y Liquidación (SNL) basado en Tecnología de Registros Distribuidos (TRD)",
-     "es": "La CNMV autoriza Bit2MeSTX, un Sistema de Negociación y Liquidación (SNL) basado en Tecnología de Registros Distribuidos (TRD)"
+     "en": "La CNMV destaca la fortaleza de los mercados financieros en un entorno de incertidumbre y subidas de tipos de interés",
+     "es": "La CNMV destaca la fortaleza de los mercados financieros en un entorno de incertidumbre y subidas de tipos de interés"
+    },
+    {
+     "title": "The CNMV launches public consultation on proposed update to the Corporate Governance Code of listed companies",
+     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7b0c834b48-6cc1-4788-864e-2ebbb2b22aeb%7d",
+     "lang": "en",
+     "en": "The CNMV launches public consultation on proposed update to the Corporate Governance Code of listed companies",
+     "es": "The CNMV launches public consultation on proposed update to the Corporate Governance Code of listed companies"
+    },
+    {
+     "title": "The CNMV authorises Bit2Me STX, a Trading and Settlement System (TSS) based on Distributed Ledger Technology (DLT)",
+     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7b6a308a4b-a639-426b-b5cb-1d56ad42c5d5%7d",
+     "lang": "en",
+     "en": "The CNMV authorises Bit2Me STX, a Trading and Settlement System (TSS) based on Distributed Ledger Technology (DLT)",
+     "es": "The CNMV authorises Bit2Me STX, a Trading and Settlement System (TSS) based on Distributed Ledger Technology (DLT)"
     },
     {
      "title": "The CNMV publishes new Q&A on the regime for prospectuses to be published in public offerings and admissions to trading on regulated markets",
@@ -4752,20 +4782,6 @@
      "lang": "en",
      "en": "The CNMV joins economists and financial experts to analyse private market growth and stock market fragmentation",
      "es": "The CNMV joins economists and financial experts to analyse private market growth and stock market fragmentation"
-    },
-    {
-     "title": "Comunicado de la CNMV en relación con la simplificación en la notificación de acciones propias de los emisores y en opas",
-     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7baf050c37-8838-4ee4-98a1-2d928bcd9900%7d",
-     "lang": "es",
-     "en": "Comunicado de la CNMV en relación con la simplificación en la notificación de acciones propias de los emisores y en opas",
-     "es": "Comunicado de la CNMV en relación con la simplificación en la notificación de acciones propias de los emisores y en opas"
-    },
-    {
-     "title": "La CNMV inicia la consulta del proyecto de Circular sobre normas contables, cuentas anuales y estados financieros intermedios de las infraestructuras del mercado",
-     "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7bf1348e8e-c2fb-4b9c-b216-edc2999612c7%7d",
-     "lang": "es",
-     "en": "La CNMV inicia la consulta del proyecto de Circular sobre normas contables, cuentas anuales y estados financieros intermedios de las infraestructuras del mercado",
-     "es": "La CNMV inicia la consulta del proyecto de Circular sobre normas contables, cuentas anuales y estados financieros intermedios de las infraestructuras del mercado"
     }
    ],
    "error": ""
@@ -4884,39 +4900,39 @@
    "source": "https://www.finma.ch/en/news/",
    "items": [
     {
-     "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
-     "url": "https://www.finma.ch/en/news/2026/10/20261028-sr-946-231-08/",
+     "title": "Sanktionen: Russland und Belarus",
+     "url": "https://www.finma.ch/en/news/2026/11/20261106-sanktionen-russland-belarus/",
      "lang": "de",
-     "en": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
-     "es": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida"
+     "en": "Sanktionen: Russland und Belarus",
+     "es": "Sanktionen: Russland und Belarus"
     },
     {
-     "title": "Aktualisierte Sanktionsmeldung: Demokratische Republik Kongo",
-     "url": "https://www.finma.ch/en/news/2026/10/20261021-sr-946-231-12/",
-     "lang": "de",
-     "en": "Aktualisierte Sanktionsmeldung: Demokratische Republik Kongo",
-     "es": "Aktualisierte Sanktionsmeldung: Demokratische Republik Kongo"
-    },
-    {
-     "title": "FINMA approves Switzerland’s first Bitcoin ETF",
-     "url": "https://www.finma.ch/en/news/2026/10/20261020-mm-finma-bitcoin-etf/",
+     "title": "FINMA launches consultation on the partially revised Circular 2019/2 “Interest rate risks – banks”",
+     "url": "https://www.finma.ch/en/news/2026/11/20261104-mm-rs-19-02/",
      "lang": "en",
-     "en": "FINMA approves Switzerland’s first Bitcoin ETF",
-     "es": "FINMA approves Switzerland’s first Bitcoin ETF"
+     "en": "FINMA launches consultation on the partially revised Circular 2019/2 “Interest rate risks – banks”",
+     "es": "FINMA launches consultation on the partially revised Circular 2019/2 “Interest rate risks – banks”"
     },
     {
-     "title": "Verordnung vom 5. Januar 2026 über die Sperrung von Vermögenswerten im Zusammenhang mit Venezuela (Anpassung des Anhangs)",
-     "url": "https://www.finma.ch/en/news/2026/10/20261016-sr-196-127-85/",
-     "lang": "de",
-     "en": "Verordnung vom 5. Januar 2026 über die Sperrung von Vermögenswerten im Zusammenhang mit Venezuela (Anpassung des Anhangs)",
-     "es": "Verordnung vom 5. Januar 2026 über die Sperrung von Vermögenswerten im Zusammenhang mit Venezuela (Anpassung des Anhangs)"
+     "title": "Aktualisierte Sanktionsmeldung: Nicaragua",
+     "url": "https://www.finma.ch/en/news/2026/11/20261103-sr-946-231-158-5/",
+     "lang": "id",
+     "en": "Aktualisierte Sanktionsmeldung: Nicaragua",
+     "es": "Aktualisierte Sanktionsmeldung: Nicaragua"
     },
     {
-     "title": "FINMA assesses the emergency and recovery plans for Zürcher Kantonalbank, Raiffeisen and PostFinance",
-     "url": "https://www.finma.ch/en/news/2026/10/20261014-mm-d-sib/",
-     "lang": "en",
-     "en": "FINMA assesses the emergency and recovery plans for Zürcher Kantonalbank, Raiffeisen and PostFinance",
-     "es": "FINMA assesses the emergency and recovery plans for Zürcher Kantonalbank, Raiffeisen and PostFinance"
+     "title": "Aktualisierte Sanktionsmeldung: Sudan",
+     "url": "https://www.finma.ch/en/news/2026/11/20261103-sr-946-231-18/",
+     "lang": "id",
+     "en": "Aktualisierte Sanktionsmeldung: Sudan",
+     "es": "Aktualisierte Sanktionsmeldung: Sudan"
+    },
+    {
+     "title": "Aktualisierte Sanktionsmeldung: Taliban",
+     "url": "https://www.finma.ch/en/news/2026/10/20261102-sr-946-231-07/",
+     "lang": "id",
+     "en": "Aktualisierte Sanktionsmeldung: Taliban",
+     "es": "Aktualisierte Sanktionsmeldung: Taliban"
     }
    ],
    "error": ""
@@ -4925,8 +4941,44 @@
    "institution": "Syrian Commission on Financial Markets and Securities",
    "jurisdiction": "Syria",
    "source": "http://www.scfms.sy",
-   "items": [],
-   "error": "ConnectTimeout HTTPConnectionPool(host='www.scfms.sy', port=80): Max retries exceeded with url:"
+   "items": [
+    {
+     "title": "الجهات الخاضعة لإشراف الهيئة",
+     "url": "http://www.scfms.sy/ar/page/الجهات-الخاضعة-لإشراف-الهيئة",
+     "lang": "ar",
+     "en": "الجهات الخاضعة لإشراف الهيئة",
+     "es": "الجهات الخاضعة لإشراف الهيئة"
+    },
+    {
+     "title": "إعلانات الشركات المساهمة",
+     "url": "http://www.scfms.sy/ar/banner-section",
+     "lang": "ar",
+     "en": "إعلانات الشركات المساهمة",
+     "es": "إعلانات الشركات المساهمة"
+    },
+    {
+     "title": "القوانين و المراسيم التشريعية",
+     "url": "http://www.scfms.sy/ar/page/القوانين-و-المراسيم-التشريعية",
+     "lang": "ar",
+     "en": "القوانين و المراسيم التشريعية",
+     "es": "القوانين و المراسيم التشريعية"
+    },
+    {
+     "title": "قرارات مجلس المفوضين",
+     "url": "http://www.scfms.sy/ar/page/قرارات-مجلس-المفوضين",
+     "lang": "ar",
+     "en": "قرارات مجلس المفوضين",
+     "es": "قرارات مجلس المفوضين"
+    },
+    {
+     "title": "معلومات وافصاحات وتقارير",
+     "url": "http://www.scfms.sy/ar/declaration",
+     "lang": "ar",
+     "en": "معلومات وافصاحات وتقارير",
+     "es": "معلومات وافصاحات وتقارير"
+    }
+   ],
+   "error": ""
   },
   {
    "institution": "Capital Markets and Securities Authority",
@@ -5013,39 +5065,39 @@
    "source": "https://www.ttsec.org.tt/category/media-releases/",
    "items": [
     {
-     "title": "LJW – Appointment of Auditor",
-     "url": "https://www.ttsec.org.tt/ljw-appointment-of-auditor-2/",
+     "title": "PUBLIC NOTICE – “Quick Promo”",
+     "url": "https://www.ttsec.org.tt/public-notice-quick-promo/",
+     "lang": "pt",
+     "en": "PUBLIC NOTICE – “Quick Promo”",
+     "es": "PUBLIC NOTICE – “Quick Promo”"
+    },
+    {
+     "title": "STTGIF- Change to Senior Officer- Dale Khan",
+     "url": "https://www.ttsec.org.tt/sttgif-change-to-senior-officer-dale-khan/",
      "lang": "en",
-     "en": "LJW – Appointment of Auditor",
-     "es": "LJW – Appointment of Auditor"
+     "en": "STTGIF- Change to Senior Officer- Dale Khan",
+     "es": "STTGIF- Change to Senior Officer- Dale Khan"
     },
     {
-     "title": "LJW – Interim Dividend",
-     "url": "https://www.ttsec.org.tt/ljw-interim-dividend/",
-     "lang": "de",
-     "en": "LJW – Interim Dividend",
-     "es": "LJW – Interim Dividend"
-    },
-    {
-     "title": "PUBLIC NOTICE – BTC 800 Lurotix",
-     "url": "https://www.ttsec.org.tt/public-notice-btc-800-lurotix/",
-     "lang": "fr",
-     "en": "PUBLIC NOTICE – BTC 800 Lurotix",
-     "es": "PUBLIC NOTICE – BTC 800 Lurotix"
-    },
-    {
-     "title": "PHL – Change to Senior Officer – Kester Sylvester",
-     "url": "https://www.ttsec.org.tt/phl-change-to-senior-officer-kester-sylvester/",
+     "title": "STTFIF- Change to Senior Officer- Dale Khan",
+     "url": "https://www.ttsec.org.tt/sttfif-change-to-senior-officer-dale-khan/",
      "lang": "en",
-     "en": "PHL – Change to Senior Officer – Kester Sylvester",
-     "es": "PHL – Change to Senior Officer – Kester Sylvester"
+     "en": "STTFIF- Change to Senior Officer- Dale Khan",
+     "es": "STTFIF- Change to Senior Officer- Dale Khan"
     },
     {
-     "title": "FCBL – Appointment of Senior Officer – Kevin Doodnath",
-     "url": "https://www.ttsec.org.tt/fcbl-appointment-of-senior-officer-kevin-doodnath/",
+     "title": "STTSTIF- Change to Senior Officer- Dale Khan",
+     "url": "https://www.ttsec.org.tt/sttstif-change-to-senior-officer-dale-khan/",
      "lang": "en",
-     "en": "FCBL – Appointment of Senior Officer – Kevin Doodnath",
-     "es": "FCBL – Appointment of Senior Officer – Kevin Doodnath"
+     "en": "STTSTIF- Change to Senior Officer- Dale Khan",
+     "es": "STTSTIF- Change to Senior Officer- Dale Khan"
+    },
+    {
+     "title": "SBTT- Change to Senior Officer- Dale Khan",
+     "url": "https://www.ttsec.org.tt/sbtt-change-to-senior-officer-dale-khan/",
+     "lang": "en",
+     "en": "SBTT- Change to Senior Officer- Dale Khan",
+     "es": "SBTT- Change to Senior Officer- Dale Khan"
     }
    ],
    "error": ""
@@ -5056,39 +5108,39 @@
    "source": "https://www.cmf.tn",
    "items": [
     {
-     "title": "Physionomie des OPCVM 31/10/2026",
-     "url": "https://www.cmf.tn/?q=physionomie-des-opcvm-31102026",
+     "title": "Valeurs liquidatives du 06 Novembre 2026",
+     "url": "https://www.cmf.tn/?q=valeurs-liquidatives-du-06-novembre-2026",
      "lang": "fr",
-     "en": "Physionomie des OPCVM 31/10/2026",
-     "es": "Physionomie des OPCVM 31/10/2026"
+     "en": "Valeurs liquidatives du 06 Novembre 2026",
+     "es": "Valeurs liquidatives du 06 Novembre 2026"
     },
     {
-     "title": "COMAR AGO",
-     "url": "https://www.cmf.tn/?q=comar-ago",
-     "lang": "en",
-     "en": "COMAR AGO",
-     "es": "COMAR AGO"
+     "title": "FIDELITY SICAV PLUS-EFI30/09-2026",
+     "url": "https://www.cmf.tn/?q=fidelity-sicav-plus-efi3009-2026",
+     "lang": "de",
+     "en": "FIDELITY SICAV PLUS-EFI30/09-2026",
+     "es": "FIDELITY SICAV PLUS-EFI30/09-2026"
     },
     {
-     "title": "COMAR AGE",
-     "url": "https://www.cmf.tn/?q=comar-age",
-     "lang": "en",
-     "en": "COMAR AGE",
-     "es": "COMAR AGE"
+     "title": "FIDELITY OBLIGATIONS SICAV-EFI30/09-2026",
+     "url": "https://www.cmf.tn/?q=fidelity-obligations-sicav-efi3009-2026",
+     "lang": "de",
+     "en": "FIDELITY OBLIGATIONS SICAV-EFI30/09-2026",
+     "es": "FIDELITY OBLIGATIONS SICAV-EFI30/09-2026"
     },
     {
-     "title": "SRTGN-EF31/12-2025",
-     "url": "https://www.cmf.tn/?q=srtgn-ef3112-2025",
-     "lang": "da",
-     "en": "SRTGN-EF31/12-2025",
-     "es": "SRTGN-EF31/12-2025"
+     "title": "UNION FINANCIERE SALAMMBO SICAV-EFI30/09-2026",
+     "url": "https://www.cmf.tn/?q=union-financiere-salammbo-sicav-efi3009-2026",
+     "lang": "de",
+     "en": "UNION FINANCIERE SALAMMBO SICAV-EFI30/09-2026",
+     "es": "UNION FINANCIERE SALAMMBO SICAV-EFI30/09-2026"
     },
     {
-     "title": "Rapport Annuel",
-     "url": "https://www.cmf.tn/?q=rapport-annuel-1470",
-     "lang": "fr",
-     "en": "Rapport Annuel",
-     "es": "Rapport Annuel"
+     "title": "UNION FINANCIERE HANNIBAL SICAV-EFI30/09-2026",
+     "url": "https://www.cmf.tn/?q=union-financiere-hannibal-sicav-efi3009-2026",
+     "lang": "de",
+     "en": "UNION FINANCIERE HANNIBAL SICAV-EFI30/09-2026",
+     "es": "UNION FINANCIERE HANNIBAL SICAV-EFI30/09-2026"
     }
    ],
    "error": ""
@@ -5122,7 +5174,7 @@
     {
      "title": "Investment Portal of Türkiye",
      "url": "https://www.invest.gov.tr/",
-     "lang": "tr",
+     "lang": "en",
      "en": "Investment Portal of Türkiye",
      "es": "Investment Portal of Türkiye"
     },
@@ -5141,6 +5193,20 @@
    "jurisdiction": "Turks & Caicos",
    "source": "https://www.tcifsc.tc/news",
    "items": [
+    {
+     "title": "TCIFSC VIRTUAL ASSETS AWARENESS AND OVERSIGHT INITIATIVE",
+     "url": "https://www.tcifsc.tc/news-press-release/tcifsc-virtual-assets-awareness-and-oversight-initiative",
+     "lang": "en",
+     "en": "TCIFSC VIRTUAL ASSETS AWARENESS AND OVERSIGHT INITIATIVE",
+     "es": "TCIFSC VIRTUAL ASSETS AWARENESS AND OVERSIGHT INITIATIVE"
+    },
+    {
+     "title": "TCIFSC EXECUTIVE ATTEND PRSA ICON 2026 CONFERENCE",
+     "url": "https://www.tcifsc.tc/news-press-release/tcifsc-executive-attend-prsa-icon-2026-conference",
+     "lang": "en",
+     "en": "TCIFSC EXECUTIVE ATTEND PRSA ICON 2026 CONFERENCE",
+     "es": "TCIFSC EXECUTIVE ATTEND PRSA ICON 2026 CONFERENCE"
+    },
     {
      "title": "TCI FSC Unveils “The Shield” as Its New Emblem and Visual Identity",
      "url": "https://www.tcifsc.tc/news-press-release/tci-fsc-unveils-the-shield-as-its-new-emblem-and-visual-identity",
@@ -5161,20 +5227,6 @@
      "lang": "en",
      "en": "TCI FSC CHAMPIONS REGIONAL COOPERATION ON VIRTUAL ASSETS REGULATION",
      "es": "TCI FSC CHAMPIONS REGIONAL COOPERATION ON VIRTUAL ASSETS REGULATION"
-    },
-    {
-     "title": "TCIFSC STRENGTHENS INTERNATIONAL TIES AT GIICS ANNUAL SEMINAR AND AGM IN LONDON",
-     "url": "https://www.tcifsc.tc/news-press-release/tcifsc-strengthens-international-ties-at-giics-annual-seminar-and-agm-in-london",
-     "lang": "en",
-     "en": "TCIFSC STRENGTHENS INTERNATIONAL TIES AT GIICS ANNUAL SEMINAR AND AGM IN LONDON",
-     "es": "TCIFSC STRENGTHENS INTERNATIONAL TIES AT GIICS ANNUAL SEMINAR AND AGM IN LONDON"
-    },
-    {
-     "title": "Legislation & Regulation",
-     "url": "https://www.tcifsc.tc/companies-legislation-and-regulation",
-     "lang": "en",
-     "en": "Legislation & Regulation",
-     "es": "Legislation & Regulation"
     }
    ],
    "error": ""
@@ -5279,7 +5331,7 @@
    "items": [
     {
      "title": "Email: [email protected]",
-     "url": "https://www.fca.org.uk/cdn-cgi/l/email-protection#c5e5b5b7a0b6b6ebaaa3a3aca6a085a3a6a4ebaab7a2ebb0ae",
+     "url": "https://www.fca.org.uk/cdn-cgi/l/email-protection#230353514650500d4c45454a4046634540420d4c51440d5648",
      "lang": "en",
      "en": "Email: [email protected]",
      "es": "Email: [email protected]"
@@ -5321,39 +5373,39 @@
    "source": "https://www.cftc.gov/PressRoom/PressReleases",
    "items": [
     {
-     "title": "CFTC to Host Roundtable on 24/7 Trading",
-     "url": "https://www.cftc.gov/PressRoom/PressReleases/9318-26",
-     "lang": "en",
-     "en": "CFTC to Host Roundtable on 24/7 Trading",
-     "es": "CFTC to Host Roundtable on 24/7 Trading"
+     "title": "CFTC Issues Impartial Access Requirements Interpretation",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+     "lang": "ca",
+     "en": "CFTC Issues Impartial Access Requirements Interpretation",
+     "es": "CFTC Issues Impartial Access Requirements Interpretation"
     },
     {
-     "title": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026",
-     "url": "https://www.cftc.gov/PressRoom/PressReleases/9317-26",
+     "title": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9322-26",
      "lang": "en",
-     "en": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026",
-     "es": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026"
+     "en": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
+     "es": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements"
     },
     {
-     "title": "CFTC Announces Semiweekly Publication of the COT Report",
-     "url": "https://www.cftc.gov/PressRoom/PressReleases/9316-26",
+     "title": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9321-26",
      "lang": "en",
-     "en": "CFTC Announces Semiweekly Publication of the COT Report",
-     "es": "CFTC Announces Semiweekly Publication of the COT Report"
+     "en": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets",
+     "es": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets"
     },
     {
-     "title": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
-     "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+     "title": "CFTC Secures Court Order Directing Texas Man and His Company to Pay Over $13 Million in Commodities Fraud",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9320-26",
      "lang": "en",
-     "en": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
-     "es": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction"
+     "en": "CFTC Secures Court Order Directing Texas Man and His Company to Pay Over $13 Million in Commodities Fraud",
+     "es": "CFTC Secures Court Order Directing Texas Man and His Company to Pay Over $13 Million in Commodities Fraud"
     },
     {
-     "title": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
-     "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+     "title": "CFTC Chairman Selig Releases Statement on Equity Perpetual Futures",
+     "url": "https://www.cftc.gov/PressRoom/PressReleases/9319-26",
      "lang": "en",
-     "en": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
-     "es": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball"
+     "en": "CFTC Chairman Selig Releases Statement on Equity Perpetual Futures",
+     "es": "CFTC Chairman Selig Releases Statement on Equity Perpetual Futures"
     }
    ],
    "error": ""
@@ -5465,6 +5517,27 @@
    "source": "https://www.ssc.gov.vn",
    "items": [
     {
+     "title": "UBCKNN tổ chức chương trình đào tạo về token hóa tài sản thực và khung pháp lý toàn cầu",
+     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174823",
+     "lang": "vi",
+     "en": "UBCKNN tổ chức chương trình đào tạo về token hóa tài sản thực và khung pháp lý toàn cầu",
+     "es": "UBCKNN tổ chức chương trình đào tạo về token hóa tài sản thực và khung pháp lý toàn cầu"
+    },
+    {
+     "title": "Phát triển thị trường trái phiếu, đáp ứng nhu cầu vốn trung và dài hạn của nền kinh tế",
+     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174836",
+     "lang": "vi",
+     "en": "Phát triển thị trường trái phiếu, đáp ứng nhu cầu vốn trung và dài hạn của nền kinh tế",
+     "es": "Phát triển thị trường trái phiếu, đáp ứng nhu cầu vốn trung và dài hạn của nền kinh tế"
+    },
+    {
+     "title": "Bộ Tài chính ban hành Thông tư số 165/2026/TT-BTC ngày 31/10/2026 hướng dẫn một số nội dung về chế độ báo cáo, công bố thông tin trên thị trường tài sản mã hóa",
+     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174779",
+     "lang": "vi",
+     "en": "Bộ Tài chính ban hành Thông tư số 165/2026/TT-BTC ngày 31/10/2026 hướng dẫn một số nội dung về chế độ báo cáo, công bố thông tin trên thị trường tài sản mã hóa",
+     "es": "Bộ Tài chính ban hành Thông tư số 165/2026/TT-BTC ngày 31/10/2026 hướng dẫn một số nội dung về chế độ báo cáo, công bố thông tin trên thị trường tài sản mã hóa"
+    },
+    {
      "title": "Bộ Tài chính ban hành Quyết định số 3078/QĐ-BTC công bố thủ tục hành chính bị bãi bỏ trong lĩnh vực chứng khoán",
      "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174368",
      "lang": "vi",
@@ -5477,27 +5550,6 @@
      "lang": "vi",
      "en": "ASEAN ESG Challenge 2026: Sinh viên Việt Nam giành giải Nhất, khẳng định dấu ấn Việt Nam trong thúc đẩy tài chính bền vững",
      "es": "ASEAN ESG Challenge 2026: Sinh viên Việt Nam giành giải Nhất, khẳng định dấu ấn Việt Nam trong thúc đẩy tài chính bền vững"
-    },
-    {
-     "title": "UBCKNN thông báo vận hành Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước",
-     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174195",
-     "lang": "vi",
-     "en": "UBCKNN thông báo vận hành Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước",
-     "es": "UBCKNN thông báo vận hành Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước"
-    },
-    {
-     "title": "UBCKNN lấy ý kiến dự thảo Quyết định ban hành Quy chế tạm thời sử dụng Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước",
-     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174187",
-     "lang": "vi",
-     "en": "UBCKNN lấy ý kiến dự thảo Quyết định ban hành Quy chế tạm thời sử dụng Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước",
-     "es": "UBCKNN lấy ý kiến dự thảo Quyết định ban hành Quy chế tạm thời sử dụng Cổng báo cáo, công bố thông tin của Ủy ban Chứng khoán Nhà nước"
-    },
-    {
-     "title": "UBCKNN cảnh báo giả mạo thông tin Công ty TNHH quản lý quỹ đầu tư chứng khoán Vietcombank",
-     "url": "https://www.ssc.gov.vn/webcenter/portal/ubck/pages_r/l/chitit?dDocName=APPSSCGOVVN1620174167",
-     "lang": "vi",
-     "en": "UBCKNN cảnh báo giả mạo thông tin Công ty TNHH quản lý quỹ đầu tư chứng khoán Vietcombank",
-     "es": "UBCKNN cảnh báo giả mạo thông tin Công ty TNHH quản lý quỹ đầu tư chứng khoán Vietcombank"
     }
    ],
    "error": ""
@@ -5530,39 +5582,39 @@
    "source": "https://www.seczambia.org.zm",
    "items": [
     {
-     "title": "GRZ Bonds Secondary Market Trade Summary Report 27.10.2026",
-     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-27-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-27-10-2026",
+     "title": "GRZ Bonds Secondary Market Trade Summary Report 04.11.2026",
+     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-04-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-04-11-2026",
      "lang": "en",
-     "en": "GRZ Bonds Secondary Market Trade Summary Report 27.10.2026",
-     "es": "GRZ Bonds Secondary Market Trade Summary Report 27.10.2026"
+     "en": "GRZ Bonds Secondary Market Trade Summary Report 04.11.2026",
+     "es": "GRZ Bonds Secondary Market Trade Summary Report 04.11.2026"
     },
     {
-     "title": "GRZ Bonds Secondary Market Trade Summary Report 26.10.2026",
-     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-26-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-26-10-2026",
+     "title": "GRZ Bonds Secondary Market Trade Summary Report 03.11.2026",
+     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-03-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-03-11-2026",
      "lang": "en",
-     "en": "GRZ Bonds Secondary Market Trade Summary Report 26.10.2026",
-     "es": "GRZ Bonds Secondary Market Trade Summary Report 26.10.2026"
+     "en": "GRZ Bonds Secondary Market Trade Summary Report 03.11.2026",
+     "es": "GRZ Bonds Secondary Market Trade Summary Report 03.11.2026"
     },
     {
-     "title": "GRZ Bonds Secondary Market Trade Summary Report 23.10.2026",
-     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-23-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-23-10-2026",
+     "title": "GRZ Bonds Secondary Market Trade Summary Report 02.11.2026",
+     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-02-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-02-11-2026",
      "lang": "en",
-     "en": "GRZ Bonds Secondary Market Trade Summary Report 23.10.2026",
-     "es": "GRZ Bonds Secondary Market Trade Summary Report 23.10.2026"
+     "en": "GRZ Bonds Secondary Market Trade Summary Report 02.11.2026",
+     "es": "GRZ Bonds Secondary Market Trade Summary Report 02.11.2026"
     },
     {
-     "title": "GRZ Bonds Secondary Market Trade Summary Report 22.10.2026",
-     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-22-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-22-10-2026",
+     "title": "GRZ Bonds Secondary Market Trade Summary Report 30.10.2026",
+     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-30-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-30-10-2026",
      "lang": "en",
-     "en": "GRZ Bonds Secondary Market Trade Summary Report 22.10.2026",
-     "es": "GRZ Bonds Secondary Market Trade Summary Report 22.10.2026"
+     "en": "GRZ Bonds Secondary Market Trade Summary Report 30.10.2026",
+     "es": "GRZ Bonds Secondary Market Trade Summary Report 30.10.2026"
     },
     {
-     "title": "GRZ Bonds Secondary Market Trade Summary Report 21.10.2026",
-     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-21-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-21-10-2026",
+     "title": "GRZ Bonds Secondary Market Trade Summary Report 29.10.2026",
+     "url": "https://www.seczambia.org.zm/grz-bonds-secondary-market-trade-summary-report-29-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=grz-bonds-secondary-market-trade-summary-report-29-10-2026",
      "lang": "en",
-     "en": "GRZ Bonds Secondary Market Trade Summary Report 21.10.2026",
-     "es": "GRZ Bonds Secondary Market Trade Summary Report 21.10.2026"
+     "en": "GRZ Bonds Secondary Market Trade Summary Report 29.10.2026",
+     "es": "GRZ Bonds Secondary Market Trade Summary Report 29.10.2026"
     }
    ],
    "error": ""
